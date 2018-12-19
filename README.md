@@ -13,9 +13,19 @@ continually updating😃.
 * [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)              *sliding window*
 
 ## Dynamic Programming
+* [62. Unique Paths](./src/0062_unique_paths/unique_paths.go)
+* [63. Unique Paths 2](./src/0063_unique_paths_2/unique_paths2.go)
+* [64. Minimum Path Sum](./src/0064_minimum_path_sum/minimum_path_sum.go)
 * [70. Climbing Stairs](./src/0070_climbing_stairs/climbing_stairs.go)
+* [120. Triangle](./src/0120_triangle/triangle.go)
+* [198. House Robber](./src/0198_house_robber/house_robber.go)
+* [300. Longest Increasing Subsequence](./src/0300_longest_increasing_subsequence/lis.go)
+* [343. Integer Break](./src/0343_integer_break/integer_break.go)
 
 ## Greedy
 * [392. Is Subsequence](./src/0392_is_subsequence/is_subsequence.go)
 * [435. Non-overlapping Intervals](./src/0435_non_overlapping_intervals/greedy_solution.go)
 * [455. Assign Cookies](./src/0455_assign_cookies/assign_cookies.go)
+
+<details>
+</details>
