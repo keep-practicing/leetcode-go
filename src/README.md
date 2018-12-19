@@ -6,10 +6,10 @@
 |0002|[Add Two Numbers](0002_add_two_numbers/add_two_numbers.go)|Medium|*`linked list`*|
 |0003|[Longest Substring Without Repeating Characters](0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)|Medium|*`sliding window`*|
 |0017|[Letter Combinations of a Phone Number](0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)|Medium|*`tree`*|
-|0020|[Valid Parentheses](0020_valid_parentheses/valid_parentheses.go)|Easy||
-|0021|[Merge Two Sorted Lists](0021_merge_two_sorted_lists/mergeTwoLists.go)|Easy||
-|0025|[Reverse Nodes in k-Group](./0025_reverse_nodes_in_k_group/reverse_node_k_group.go)|Hard||
-|0061|[Rotate List](./0061_rotate_list/rotate_list.go)|Medium||
+|0020|[Valid Parentheses](0020_valid_parentheses/valid_parentheses.go)|Easy|*`string;`* *`stack`*|
+|0021|[Merge Two Sorted Lists](0021_merge_two_sorted_lists/mergeTwoLists.go)|Easy|*`linked list`*|
+|0025|[Reverse Nodes in k-Group](./0025_reverse_nodes_in_k_group/reverse_node_k_group.go)|Hard|*`linked list`*|
+|0061|[Rotate List](./0061_rotate_list/rotate_list.go)|Medium|*`linked list`*|
 |0062|[Unique Paths](./0062_unique_paths/unique_paths.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0063|[Unique Paths 2](./0063_unique_paths_2/unique_paths2.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0064|[Minimum Path Sum](./0064_minimum_path_sum/minimum_path_sum.go)|Medium|*`dynamic programming;`* *` dfs`*|
@@ -42,4 +42,4 @@
 |0455|[Assign Cookies](./0455_assign_cookies/assign_cookies.go)|Easy|*`greedy algorithm`*|
 |0704|[Binary Search](0704_binary_search/binary_search.go)|Easy|*`binary search`*|
 |0728|[Self Dividing Numbers](./0728_self_dividing_numbers/self_dividing_numbers.go)|Easy||
-|0747|[Largest Number At Least Twice of Others](./0455_assign_cookies/largest_number_at_least_twice_of_others.go)|Easy||
+|0747|[Largest Number At Least Twice of Others](./0747_largest_number_at_least_twice_of_others/largest_number_at_least_twice_of_others.go)|Easy||
