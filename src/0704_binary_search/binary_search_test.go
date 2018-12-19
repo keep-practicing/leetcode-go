@@ -15,7 +15,7 @@ func TestSearch(t *testing.T) {
 		},
 		arg{
 			nums:   []int{-1, 0, 3, 5, 9, 12},
-			target: 20,
+			target: -3,
 		},
 	}
 
