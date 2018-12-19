@@ -12,7 +12,7 @@ Note: A leaf is a node with no children.
 
 package minimumdepthofbinarytree
 
-import "algorithms/utils"
+import "leetcode/utils"
 
 // TreeNode binary tree node.
 type TreeNode struct {

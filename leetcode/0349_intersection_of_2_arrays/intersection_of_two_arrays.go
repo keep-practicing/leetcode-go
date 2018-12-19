@@ -20,7 +20,7 @@ Note:
 
 package intersectionof2arrays
 
-import "algorithms/utils"
+import "leetcode/utils"
 
 func intersection(nums1 []int, nums2 []int) []int {
 	set1 := utils.NewSet()

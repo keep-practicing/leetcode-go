@@ -20,7 +20,7 @@ Follow up:
 
 package lis
 
-import "algorithms/utils"
+import "leetcode/utils"
 
 // Dynamic Programming
 // TIme complexity: O(n^2)
