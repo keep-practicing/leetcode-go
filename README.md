@@ -17,7 +17,7 @@ continually updating😃.
 
 ## String
 * [3. Longest Substring Without Repeating Characters](./src/0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)               *sliding window;*   *hash table*
-* [17. Letter Combinations of a Phone Number]   (./src/0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)     *tree*
+* [17. Letter Combinations of a Phone Number](./src/0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)     *tree*
 * [67. Add Binary](./src/0067_add_binary/add_binary.go)
 * [76. Minimum Window Substring](./src/0076_minimum_window_substring/minimum_window_substring.go)               *sliding window*
 
