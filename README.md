@@ -39,5 +39,8 @@ continually updating 😃.
 * [435. Non-overlapping Intervals](./src/0435_non_overlapping_intervals/greedy_solution.go)
 * [455. Assign Cookies](./src/0455_assign_cookies/assign_cookies.go)
 
+### Binary Search
+* [704. Binary Search](./src/0704_binary_search/binary_search.go)
+
 <details>
 </details>

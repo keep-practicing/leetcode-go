@@ -40,5 +40,6 @@
 |0447|[Number of Boomerangs](./0447_number_of_boomerangs/number_of_boomerangs.go)|Easy||
 |0454|[4Sum II](./0454_4sum2/4sum2.go)|Medium||
 |0455|[Assign Cookies](./0455_assign_cookies/assign_cookies.go)|Easy|*`greedy algorithm`*|
+|0704|[Binary Search](0704_binary_search/binary_search.go)|Easy|*`binary search`*|
 |0728|[Self Dividing Numbers](./0728_self_dividing_numbers/self_dividing_numbers.go)|Easy||
 |0747|[Largest Number At Least Twice of Others](./0455_assign_cookies/largest_number_at_least_twice_of_others.go)|Easy||
