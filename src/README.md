@@ -2,7 +2,7 @@
 
 |ID|Title && solution|Coefficient of difficulty|remarks|
 |:---:|:---:|:---:|:---:|
-|0001|[Two Sum](0001_two_sum/twosum.go)|Easy|*`array;`*  *`lookup table`*|
+|0001|[Two Sum](./0001_two_sum/twosum.go)|Easy|*`array;`*  *`lookup table`*|
 |0002|[Add Two Numbers](0002_add_two_numbers/add_two_numbers.go)|Medium||
 |0003|[Longest Substring Without Repeating Characters](0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)|Medium|*`sliding window`*|
 |0017|[Letter Combinations of a Phone Number](0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)|Medium|*`tree`*|

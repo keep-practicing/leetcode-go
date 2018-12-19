@@ -9,8 +9,12 @@ continually updating😃.
 ### [view by sorted](./src/README.md)
 
 ## Array
+* [1. Two Sum](./src/0001_two_sum/twosum.go)               *lookup table*
 * [76. Minimum Window Substring](./src/0076_minimum_window_substring/minimum_window_substring.go)               *sliding window*
+* [167. Two Sum II - Input array is sorted](./src/0167_two_sum2/two_sum2.go)               *double index*
 * [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)              *sliding window*
+* [283. Move Zeroes(solution1)](./src/0283_move_zeroes/move_zeroes.go)
+* [283. Move Zeroes(solution2)](./src/0283_move_zeroes/move_zeroes2.go)
 
 ## Dynamic Programming
 * [62. Unique Paths](./src/0062_unique_paths/unique_paths.go)
