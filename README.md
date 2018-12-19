@@ -4,35 +4,35 @@
 [![codecov](https://codecov.io/gh/zwfang/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/zwfang/leetcode)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/86cf2613fa544ab5b254e2a7e5d9deb8)](https://www.codacy.com/app/zwfang/leetcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zwfang/leetcode&amp;utm_campaign=Badge_Grade)
 
-continually updating😃.
+continually updating 😃.
 
 ### [view by sorted](./src/README.md)
 
 ### Array
 * [1. Two Sum](./src/0001_two_sum/twosum.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`lookup table;`*&nbsp;&nbsp;*`hash table`*
-* [167. Two Sum II - Input array is sorted](./src/0167_two_sum2/two_sum2.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`double index`*
-* [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)              *sliding window*
-* [283. Move Zeroes(solution1)](./src/0283_move_zeroes/move_zeroes.go)
-* [283. Move Zeroes(solution2)](./src/0283_move_zeroes/move_zeroes2.go)
+* [167. Two Sum II - Input array is sorted](./src/0167_two_sum2/two_sum2.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`binary search`*
+* [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`sliding window`*
+* [283. Move Zeroes(solution1)](./src/0283_move_zeroes/move_zeroes.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`sliding window`*
+* [283. Move Zeroes(solution2)](./src/0283_move_zeroes/move_zeroes2.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`sliding window`*
 
 ### String
-* [3. Longest Substring Without Repeating Characters](./src/0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)               *sliding window;*   *hash table*
-* [17. Letter Combinations of a Phone Number](./src/0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)     *tree*
-* [67. Add Binary](./src/0067_add_binary/add_binary.go)
-* [76. Minimum Window Substring](./src/0076_minimum_window_substring/minimum_window_substring.go)               *sliding window*
+* [3. Longest Substring Without Repeating Characters](./src/0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`sliding window;`*&nbsp;&nbsp;*`hash table`*
+* [17. Letter Combinations of a Phone Number](./src/0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`tree`*
+* [67. Add Binary](./src/0067_add_binary/add_binary.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`brute force`*
+* [76. Minimum Window Substring](./src/0076_minimum_window_substring/minimum_window_substring.go) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`sliding window`*
 
 ### Linked List
-* [2. Add Two Numbers](./src/0002_add_two_numbers/add_two_numbers.go)
+* [2. Add Two Numbers](./src/0002_add_two_numbers/add_two_numbers.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`recursion;`*&nbsp;&nbsp;*`math`*
 
 ### Dynamic Programming
-* [62. Unique Paths](./src/0062_unique_paths/unique_paths.go)
-* [63. Unique Paths 2](./src/0063_unique_paths_2/unique_paths2.go)
-* [64. Minimum Path Sum](./src/0064_minimum_path_sum/minimum_path_sum.go)
+* [62. Unique Paths](./src/0062_unique_paths/unique_paths.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`array`*
+* [63. Unique Paths 2](./src/0063_unique_paths_2/unique_paths2.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`array`*
+* [64. Minimum Path Sum](./src/0064_minimum_path_sum/minimum_path_sum.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`array`*
 * [70. Climbing Stairs](./src/0070_climbing_stairs/climbing_stairs.go)
-* [120. Triangle](./src/0120_triangle/triangle.go)
+* [120. Triangle](./src/0120_triangle/triangle.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`array`*
 * [198. House Robber](./src/0198_house_robber/house_robber.go)
 * [300. Longest Increasing Subsequence](./src/0300_longest_increasing_subsequence/lis.go)
-* [343. Integer Break](./src/0343_integer_break/integer_break.go)
+* [343. Integer Break](./src/0343_integer_break/integer_break.go)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*`math`*
 
 ### Greedy
 * [392. Is Subsequence](./src/0392_is_subsequence/is_subsequence.go)
