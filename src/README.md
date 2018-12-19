@@ -3,7 +3,7 @@
 |ID|Title && solution|Coefficient of difficulty|remarks|
 |:---:|:---:|:---:|:---:|
 |0001|[Two Sum](./0001_two_sum/twosum.go)|Easy|*`array;`*  *`lookup table`*|
-|0002|[Add Two Numbers](0002_add_two_numbers/add_two_numbers.go)|Medium||
+|0002|[Add Two Numbers](0002_add_two_numbers/add_two_numbers.go)|Medium|*`linked list`*|
 |0003|[Longest Substring Without Repeating Characters](0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)|Medium|*`sliding window`*|
 |0017|[Letter Combinations of a Phone Number](0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)|Medium|*`tree`*|
 |0020|[Valid Parentheses](0020_valid_parentheses/valid_parentheses.go)|Easy||
@@ -13,7 +13,7 @@
 |0062|[Unique Paths](./0062_unique_paths/unique_paths.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0063|[Unique Paths 2](./0063_unique_paths_2/unique_paths2.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0064|[Minimum Path Sum](./0064_minimum_path_sum/minimum_path_sum.go)|Medium|*`dynamic programming;`* *` dfs`*|
-|0067|[add Binary](./0067_add_binary/README.md)|Easy||
+|0067|[add Binary](./0067_add_binary/add_binary.go)|Easy||
 |0070|[Climbing Stairs](./0070_climbing_stairs/climbing_stairs.go)|Easy|*`dynamic programming`*|
 |0076|[Minimum Window Substring](./0076_minimum_window_substring/minimum_window_substring.go)|Hard|*`sliding window`*|
 |0094|[Binary Tree Inorder Traversal](./0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)|Medium|*`binary tree`*|
