@@ -5,11 +5,29 @@ import (
 )
 
 func TestAddBinary(t *testing.T) {
-	a := "11"
-	b := "1"
-	expected := "100"
+	type arg struct {
+		a string
+		b string
+	}
 
-	if res := addBinary(a, b); res != expected {
-		t.Errorf("expected %s, got %s", expected, res)
+	testCases := []arg{
+		arg{
+			a: "11",
+			b: "1",
+		},
+		arg{
+			b: "11",
+			a: "1",
+		},
+	}
+
+	expected := []string{
+		"100", "100",
+	}
+
+	for index, data := range testCases {
+		if res := addBinary(data.a, data.b); res != expected[index] {
+			t.Errorf("expected %s, got %s", expected[index], res)
+		}
 	}
 }
