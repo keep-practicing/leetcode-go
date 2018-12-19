@@ -7,7 +7,7 @@ GOGET=$(GOCMD) get
 
 test:
 	@echo "unit test"
-	$(GOTEST) -v ./...
+	$(GOTEST) ./...
 
 clean:
 	@echo "clean test cache"
