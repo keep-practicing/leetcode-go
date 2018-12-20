@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/zwfang/leetcode.svg?branch=master)](https://travis-ci.org/zwfang/leetcode)
 [![codecov](https://codecov.io/gh/zwfang/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/zwfang/leetcode)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/86cf2613fa544ab5b254e2a7e5d9deb8)](https://www.codacy.com/app/zwfang/leetcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zwfang/leetcode&amp;utm_campaign=Badge_Grade)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zwfang/leetcode)](https://goreportcard.com/report/github.com/zwfang/leetcode)
 
 continually updating 😃.
 
@@ -62,8 +63,9 @@ continually updating 😃.
 * [226. Invert Binary Tree](./src/0226_invert_binary_tree/invert_binary_tree.go)
 
 ### Binary Search
-* [704. Binary Search](./src/0704_binary_search/binary_search.go)
+* [33. Search in Rotated Sorted Array](./src/0033_search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
 * [34. Find First and Last Position of Element in Sorted Array](./src/0034_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
+* [704. Binary Search](./src/0704_binary_search/binary_search.go)
 
 <details>
 </details>

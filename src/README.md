@@ -9,6 +9,7 @@
 |0020|[Valid Parentheses](0020_valid_parentheses/valid_parentheses.go)|Easy|*`string;`* *`stack`*|
 |0021|[Merge Two Sorted Lists](0021_merge_two_sorted_lists/mergeTwoLists.go)|Easy|*`linked list`*|
 |0025|[Reverse Nodes in k-Group](./0025_reverse_nodes_in_k_group/reverse_node_k_group.go)|Hard|*`linked list`*|
+|0033|[Search in Rotated Sorted Array](0033_search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)|Medium|*`binary search`*|
 |0034|[ Find First and Last Position of Element in Sorted Array](0034_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.go)|Medium|*`binary search`*|
 |0061|[Rotate List](./0061_rotate_list/rotate_list.go)|Medium|*`linked list`*|
 |0062|[Unique Paths](./0062_unique_paths/unique_paths.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
