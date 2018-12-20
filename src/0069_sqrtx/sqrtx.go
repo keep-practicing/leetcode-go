@@ -37,5 +37,5 @@ func mySqrt(x int) int {
 			r = mid - 1
 		}
 	}
-	return l
+	return x // 不会执行，如果x为负数，会执行到此处，但是不符合题目要求。
 }
