@@ -6,9 +6,9 @@ import (
 
 func TestTriangle(t *testing.T) {
 	testData := [][][]int{
-		[][]int{[]int{2}, []int{3, 4}, []int{6, 5, 7}, []int{4, 1, 8, 3}},
-		[][]int{},
-		[][]int{[]int{-1}, []int{2, 3}, []int{1, -1, -3}},
+		{{2}, {3, 4}, {6, 5, 7}, {4, 1, 8, 3}},
+		{},
+		{{-1}, {2, 3}, {1, -1, -3}},
 	}
 
 	expectedData := []int{11, 0, -1}

@@ -12,7 +12,7 @@ type arg struct {
 
 func TestTwoSum2(t *testing.T) {
 	testData := []arg{
-		arg{
+		{
 			numbers: []int{2, 7, 11, 15},
 			target:  9,
 		},
