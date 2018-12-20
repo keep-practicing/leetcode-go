@@ -30,8 +30,8 @@ type arg struct {
 
 func TestHasPathSum(t *testing.T) {
 	testData := []arg{
-		arg{nums: []interface{}{5, 4, 8, 11, nil, 13, 4, 7, 2, nil, nil, nil, 1}, sum: 22},
-		arg{nums: []interface{}{}, sum: 0},
+		{nums: []interface{}{5, 4, 8, 11, nil, 13, 4, 7, 2, nil, nil, nil, 1}, sum: 22},
+		{nums: []interface{}{}, sum: 0},
 	}
 	expectedData := []bool{true, false}
 	for index, data := range testData {

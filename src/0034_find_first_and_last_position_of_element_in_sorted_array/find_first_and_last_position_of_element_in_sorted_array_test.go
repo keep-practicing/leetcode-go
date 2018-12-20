@@ -13,27 +13,27 @@ func TestSearchRange(t *testing.T) {
 	}
 
 	testCases := []arg{
-		arg{
+		{
 			nums:   []int{5, 7, 7, 8, 8, 10},
 			target: 8,
 		},
-		arg{
+		{
 			nums:   []int{5, 7, 7, 8, 8, 10},
 			target: 6,
 		},
-		arg{
+		{
 			nums:   []int{1},
 			target: 1,
 		},
-		arg{
+		{
 			nums:   []int{},
 			target: 0,
 		},
-		arg{
+		{
 			nums:   []int{2, 2},
 			target: 2,
 		},
-		arg{
+		{
 			nums:   []int{1},
 			target: 0,
 		},
