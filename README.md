@@ -65,7 +65,7 @@ continually updating 😃.
 ### Binary Search
 * [33. Search in Rotated Sorted Array](./src/0033_search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
 * [34. Find First and Last Position of Element in Sorted Array](./src/0034_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
-* [69. Sqrt(x)](./src/0069_sqrtx/sqrtx.go)&nbsp;&nbsp;&nbsp;*`math`*
+* [69. Sqrt(x)](./src/0069_sqrtx/sqrtx.go)&nbsp;&nbsp;&nbsp;*`math;`*&nbsp;&nbsp;*`binary search`*
 * [704. Binary Search](./src/0704_binary_search/binary_search.go)
 
 <details>
