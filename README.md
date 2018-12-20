@@ -63,6 +63,7 @@ continually updating 😃.
 
 ### Binary Search
 * [704. Binary Search](./src/0704_binary_search/binary_search.go)
+* [34. Find First and Last Position of Element in Sorted Array](./src/0034_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
 
 <details>
 </details>
