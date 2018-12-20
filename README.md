@@ -11,6 +11,7 @@ continually updating 😃.
 
 ### Array
 * [1. Two Sum](./src/0001_two_sum/twosum.go)&nbsp;&nbsp;&nbsp;*`lookup table;`*&nbsp;&nbsp;*`hash table`*
+* [26. Remove Duplicates from Sorted Array](./src/0026_remove_duplicates_from_sorted_array/rdfsa.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [27. Remove Element](src/0027_remove_element/remove_element.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [167. Two Sum II - Input array is sorted](./src/0167_two_sum2/two_sum2.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`binary search`*
 * [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
