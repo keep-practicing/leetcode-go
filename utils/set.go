@@ -33,8 +33,8 @@ func (s Set) Size() int {
 }
 
 // Clear 清空集合
-func (s Set) Clear() {
-	s = make(Set)
+func (s *Set) Clear() {
+	*s = make(Set)
 }
 
 // Equal 判断两个set是否相等
