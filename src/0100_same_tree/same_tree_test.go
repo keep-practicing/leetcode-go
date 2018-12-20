@@ -24,9 +24,9 @@ func performCreate(nums []int, index int) *TreeNode {
 
 func TestSameTree(t *testing.T) {
 	testData := []arg{
-		arg{p: []int{1, 2, 3}, q: []int{1, 2, 3}},
-		arg{p: []int{1, 2, 3}, q: []int{1, 2}},
-		arg{p: []int{1, 2, 3}, q: []int{1, 2, 4}},
+		{p: []int{1, 2, 3}, q: []int{1, 2, 3}},
+		{p: []int{1, 2, 3}, q: []int{1, 2}},
+		{p: []int{1, 2, 3}, q: []int{1, 2, 4}},
 	}
 
 	expectedData := []bool{true, false, false}

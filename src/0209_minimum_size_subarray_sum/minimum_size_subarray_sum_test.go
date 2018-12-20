@@ -8,15 +8,15 @@ func TestMinSubArrayLen(t *testing.T) {
 		nums []int
 	}
 	testData := []arg{
-		arg{
+		{
 			s:    7,
 			nums: []int{2, 3, 1, 2, 4, 3},
 		},
-		arg{
+		{
 			s:    7,
 			nums: []int{7, 4, 3, 2},
 		},
-		arg{
+		{
 			s:    66,
 			nums: []int{7, 4, 3, 2},
 		},

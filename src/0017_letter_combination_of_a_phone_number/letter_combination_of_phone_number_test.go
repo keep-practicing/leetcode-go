@@ -12,8 +12,8 @@ func TestLetterCombinations(t *testing.T) {
 	}
 
 	expectedData := [][]string{
-		[]string{"ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"},
-		[]string{},
+		{"ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"},
+		{},
 	}
 
 	for index, digits := range testData {

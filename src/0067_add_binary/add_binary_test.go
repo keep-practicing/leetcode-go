@@ -11,11 +11,11 @@ func TestAddBinary(t *testing.T) {
 	}
 
 	testCases := []arg{
-		arg{
+		{
 			a: "11",
 			b: "1",
 		},
-		arg{
+		{
 			b: "11",
 			a: "1",
 		},
