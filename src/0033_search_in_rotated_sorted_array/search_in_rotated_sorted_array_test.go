@@ -16,9 +16,10 @@ func TestSearch(t *testing.T) {
 		{nums: []int{4, 5, 6, 7, 0}, target: 0},
 		{nums: []int{9, 7}, target: 7},
 		{nums: []int{1, 3}, target: 3},
+		{nums: []int{4, 5, 6, 7, 8, 1, 2}, target: 5},
 	}
 
-	expected := []int{4, -1, -1, 0, 4, 1, 1}
+	expected := []int{4, -1, -1, 0, 4, 1, 1, 1}
 
 	for index, data := range testCases {
 		if res := search(data.nums, data.target); res != expected[index] {
