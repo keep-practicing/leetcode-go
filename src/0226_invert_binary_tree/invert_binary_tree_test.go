@@ -47,7 +47,7 @@ func TestInvertTree(t *testing.T) {
 	}
 
 	expectedData := [][]interface{}{
-		[]interface{}{4, 7, 2, 9, 6, 3, 1},
+		{4, 7, 2, 9, 6, 3, 1},
 	}
 
 	for index, data := range testData {

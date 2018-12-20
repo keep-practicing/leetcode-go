@@ -9,11 +9,11 @@ type args struct {
 
 func TestAssignCookies(t *testing.T) {
 	testData := []args{
-		args{
+		{
 			g: []int{1, 2, 3},
 			s: []int{1, 1},
 		},
-		args{
+		{
 			g: []int{1, 2},
 			s: []int{1, 2, 3},
 		},

@@ -11,15 +11,15 @@ func TestFindAnagrams(t *testing.T) {
 		p string
 	}
 	cases := []arg{
-		arg{
+		{
 			s: "cbaebabacd",
 			p: "abc",
 		},
-		arg{
+		{
 			s: "abab",
 			p: "ab",
 		},
-		arg{
+		{
 			p: "abab",
 			s: "ab",
 		},

@@ -9,11 +9,11 @@ func TestSearch(t *testing.T) {
 	}
 
 	testCases := []arg{
-		arg{
+		{
 			nums:   []int{-1, 0, 3, 5, 9, 12},
 			target: 9,
 		},
-		arg{
+		{
 			nums:   []int{-1, 0, 3, 5, 9, 12},
 			target: -3,
 		},
