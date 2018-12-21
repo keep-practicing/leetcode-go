@@ -22,6 +22,7 @@
 |0070|[Climbing Stairs](./0070_climbing_stairs/climbing_stairs.go)|Easy|*`dynamic programming`*|
 |0076|[Minimum Window Substring](./0076_minimum_window_substring/minimum_window_substring.go)|Hard|*`sliding window`*|
 |0080|[80. Remove Duplicates from Sorted Array II](0080_remove_duplicates_from_sorted_array2/rdfsa2.go)|Medium|*`double index`*|
+|0088|[88. Merge Sorted Array](0088_merge_sorted_array/msa.go)|Easy|*`sort`*|
 |0094|[Binary Tree Inorder Traversal](./0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)|Medium|*`binary tree`*|
 |0100|[Same Tree](./0100_same_tree/same_tree.go)|Easy|*`binary tree`*|
 |0101|[Symmetric Tree](./0101_symmetric_tree/symmetric_tree.go)|Easy|*`stack;`* *`recursion; `* *`iterative`*|
