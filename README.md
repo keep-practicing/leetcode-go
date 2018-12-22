@@ -15,6 +15,7 @@ continually updating 😃.
 * [27. Remove Element](src/0027_remove_element/remove_element.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [75. Sort Colors](./src/0075_sort_colors/sort_colors.go)&nbsp;&nbsp;&nbsp;*`sort;`*&nbsp;&nbsp;*`array`*
 * [80. Remove Duplicates from Sorted Array II](./src/0080_remove_duplicates_from_sorted_array2/rdfsa2.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
+* [88. Merge Sorted Array](./src/0088_merge_sorted_array/msa.go)&nbsp;&nbsp;&nbsp;*`sort;`*&nbsp;&nbsp;*`array`*
 * [167. Two Sum II - Input array is sorted](./src/0167_two_sum2/two_sum2.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`binary search`*
 * [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
 * [283. Move Zeroes(solution1)](./src/0283_move_zeroes/move_zeroes.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
