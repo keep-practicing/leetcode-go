@@ -41,6 +41,7 @@
 |0300|[Longest Increasing Subsequence](./0300_longest_increasing_subsequence/lis.go)|Medium|*`dp`*|
 |0343|[Integer Break](./0343_integer_break/integer_break.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0344|[344. Reverse String](0344_reverse_string/reverse_string.go)|Easy|*`double index`*|
+|0345|[345. Reverse Vowels of a String](0345_reverse_vowels_of_a_string/reverse_vowels.go)|Easy|*`double index`*|
 |0349|[Intersection of Two Arrays](./0349_intersection_of_2_arrays/intersection_of_two_arrays.go)|Easy|*`set`*|
 |0350| [Intersection of Two Arrays II](./0350_intersection_of_two_arrays2/intersection_of_two_arrays2.go)|Easy|*`map`*|
 |0376|[Wiggle Subsequence](./0376_wiggle_subsequence/wiggle_subsequence.go)|Medium|*`dp`*|

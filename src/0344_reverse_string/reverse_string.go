@@ -17,7 +17,7 @@ func reverseString(s string) string {
 		r = len(s) - 1
 	)
 
-	for r >= l {
+	for r > l {
 		charL := s[l]
 		charR := s[r]
 		s = s[:r] + string(charL) + s[r+1:]
@@ -33,9 +33,9 @@ func reverseString(s string) string {
 // space complexity: O(n)
 func reverseString1(s string) string {
 	sLen := len(s)
-	runes := []rune(s)
+	bytes := []byte(s)
 	for i := 0; i < sLen/2; i++ {
-		runes[i], runes[sLen-i-1] = runes[sLen-i-1], runes[i]
+		bytes[i], bytes[sLen-i-1] = bytes[sLen-i-1], bytes[i]
 	}
-	return string(runes)
+	return string(bytes)
 }
