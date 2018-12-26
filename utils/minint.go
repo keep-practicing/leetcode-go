@@ -7,7 +7,7 @@ func CalcMinInt(nums ...int) (res int) {
 		return 0
 	}
 
-	res = MaxInt
+	res = nums[0]
 
 	for _, num := range nums {
 		if num < res {
