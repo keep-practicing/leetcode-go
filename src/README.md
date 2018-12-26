@@ -31,6 +31,7 @@
 |0111|[Minimum Depth of Binary Tree](./0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)|Easy|*`binary tree`*|
 |0112|[Path Sum](./0112_path_sum/path_sum.go)|Easy|*`binary tree`*|
 |0120|[Triangle](./0120_triangle/triangle.go)|Medium|*`dynamic programming;`* *` dfs`*|
+|0125|[Valid Palindrome](0125_valid_palindrome/valid_palindrome.go)|Easy||
 |0167|[Two Sum II - Input array is sorted](./0167_two_sum2/two_sum2.go)|Easy|*`对撞指针(双索引)`*|
 |0198|[House Robber](./0198_house_robber/house_robber.go)|Easy|*`memory search;`* *`dynamic programming`*|
 |0209|[Minimum Size Subarray Sum](./0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)|Medium|*`sliding window`*|
