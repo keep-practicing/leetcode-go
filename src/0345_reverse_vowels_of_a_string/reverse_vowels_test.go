@@ -1,4 +1,4 @@
-package reverse_vowels
+package reversevowels
 
 import "testing"
 

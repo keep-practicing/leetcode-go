@@ -7,7 +7,7 @@ Write a function that takes a string as input and reverse only the vowels of a s
 */
 // time: 2018-12-26
 
-package reverse_vowels
+package reversevowels
 
 // time complexity: O(n)
 // space complexity: O(1)
