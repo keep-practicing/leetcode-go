@@ -32,6 +32,7 @@
 |0111|[Minimum Depth of Binary Tree](./0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)|Easy|*`binary tree`*|
 |0112|[Path Sum](./0112_path_sum/path_sum.go)|Easy|*`binary tree`*|
 |0120|[Triangle](./0120_triangle/triangle.go)|Medium|*`dynamic programming;`* *` dfs`*|
+|0121|[121. Best Time to Buy and Sell Stock](0121_best_time_to_buy_and_sell_stock/maxprofit.go)|Easy||
 |0125|[Valid Palindrome](0125_valid_palindrome/valid_palindrome.go)|Easy||
 |0167|[Two Sum II - Input array is sorted](./0167_two_sum2/two_sum2.go)|Easy|*`对撞指针(双索引)`*|
 |0198|[House Robber](./0198_house_robber/house_robber.go)|Easy|*`memory search;`* *`dynamic programming`*|
