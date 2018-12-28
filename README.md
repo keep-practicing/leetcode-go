@@ -22,6 +22,7 @@ continually updating 😃.
 * [215. Kth Largest Element in an Array](./src/0215_kth_largest_element_in_an_array/kthleiaa.go)&nbsp;&nbsp;&nbsp;*`sort`*
 * [283. Move Zeroes(solution1)](./src/0283_move_zeroes/move_zeroes.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
 * [283. Move Zeroes(solution2)](./src/0283_move_zeroes/move_zeroes2.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
+* [303. Range Sum Query - Immutable](src/0303_range_sum_query/rsqim.go)
 * [349. Intersection of Two Arrays](./src/0349_intersection_of_2_arrays/intersection_of_two_arrays.go)&nbsp;&nbsp;&nbsp;*`set`*
 * [350. Intersection of Two Arrays II](./src/0350_intersection_of_two_arrays2/intersection_of_two_arrays2.go)&nbsp;&nbsp;&nbsp;*`hash table`*
 * [447. Number of Boomerangs](./src/0447_number_of_boomerangs/number_of_boomerangs.go)&nbsp;&nbsp;&nbsp;*`hash table`*
