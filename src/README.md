@@ -57,5 +57,6 @@
 |0455|[Assign Cookies](./0455_assign_cookies/assign_cookies.go)|Easy|*`greedy algorithm`*|
 |0704|[Binary Search](0704_binary_search/binary_search.go)|Easy|*`binary search`*|
 |0713|[713. Subarray Product Less Than K](0713_subarray_product_less_than_k/spltk.go)|Medium|*`sliding window`*|
+|0717|[717. 1-bit and 2-bit Characters](0717_1_bit_and_2_bit_characters/1bitand2bitc.go)|Easy||
 |0728|[Self Dividing Numbers](./0728_self_dividing_numbers/self_dividing_numbers.go)|Easy||
 |0747|[Largest Number At Least Twice of Others](./0747_largest_number_at_least_twice_of_others/largest_number_at_least_twice_of_others.go)|Easy||
