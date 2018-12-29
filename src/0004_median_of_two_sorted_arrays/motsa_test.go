@@ -17,6 +17,7 @@ func TestFindMedianSortedArrays(t *testing.T) {
 		{nums1: []int{4, 5, 6}, nums2: []int{}},
 		{nums1: []int{2, 3, 4, 5}, nums2: []int{1}},
 		{nums1: []int{1}, nums2: []int{2, 3, 4, 5, 6, 7}},
+		{nums1: []int{1, 2, 3, 4, 5, 6}, nums2: []int{7}},
 	}
 
 	expected := []float64{2, 2.5, 4, 5, 3, 4}
@@ -33,5 +34,4 @@ func TestFindMedianSortedArrays(t *testing.T) {
 		}
 	}()
 	findMedianSortedArrays([]int{}, []int{})
-
 }
