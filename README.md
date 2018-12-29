@@ -18,6 +18,7 @@ continually updating 😃.
 * [80. Remove Duplicates from Sorted Array II](./src/0080_remove_duplicates_from_sorted_array2/rdfsa2.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [88. Merge Sorted Array](./src/0088_merge_sorted_array/msa.go)&nbsp;&nbsp;&nbsp;*`sort;`*&nbsp;&nbsp;*`array`*
 * [121. Best Time to Buy and Sell Stock](src/0121_best_time_to_buy_and_sell_stock/maxprofit.go)&nbsp;&nbsp;&nbsp;*`dynamic programming;`*&nbsp;&nbsp;*`array`*
+* [122. Best Time to Buy and Sell Stock II](src/0122_best_time_to_buy_and_sell_stock_2/maxprofit.go)&nbsp;&nbsp;&nbsp;*`greedy;`*&nbsp;&nbsp;*`array`*
 * [167. Two Sum II - Input array is sorted](./src/0167_two_sum2/two_sum2.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`binary search`*
 * [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
 * [215. Kth Largest Element in an Array](./src/0215_kth_largest_element_in_an_array/kthleiaa.go)&nbsp;&nbsp;&nbsp;*`sort`*
