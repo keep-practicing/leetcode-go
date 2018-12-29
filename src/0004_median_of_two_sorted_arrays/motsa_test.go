@@ -15,9 +15,11 @@ func TestFindMedianSortedArrays(t *testing.T) {
 		{nums1: []int{1, 2}, nums2: []int{3, 4}},
 		{nums1: []int{}, nums2: []int{3, 4, 5}},
 		{nums1: []int{4, 5, 6}, nums2: []int{}},
+		{nums1: []int{2, 3, 4, 5}, nums2: []int{1}},
+		{nums1: []int{1}, nums2: []int{2, 3, 4, 5, 6, 7}},
 	}
 
-	expected := []float64{2, 2.5, 4, 5}
+	expected := []float64{2, 2.5, 4, 5, 3, 4}
 
 	for index, data := range testCases {
 		if res := findMedianSortedArrays(data.nums1, data.nums2); res != expected[index] {
