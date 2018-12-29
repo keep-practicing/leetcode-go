@@ -56,6 +56,7 @@
 |0447|[Number of Boomerangs](./0447_number_of_boomerangs/number_of_boomerangs.go)|Easy||
 |0454|[4Sum II](./0454_4sum2/4sum2.go)|Medium||
 |0455|[Assign Cookies](./0455_assign_cookies/assign_cookies.go)|Easy|*`greedy algorithm`*|
+|0674|[674. Longest Continuous Increasing Subsequence](0674_longest_continuous_increasing_subsequence/lcis.go)|Easy||
 |0704|[Binary Search](0704_binary_search/binary_search.go)|Easy|*`binary search`*|
 |0713|[713. Subarray Product Less Than K](0713_subarray_product_less_than_k/spltk.go)|Medium|*`sliding window`*|
 |0717|[717. 1-bit and 2-bit Characters](0717_1_bit_and_2_bit_characters/1bitand2bitc.go)|Easy||
