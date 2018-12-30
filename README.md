@@ -29,6 +29,7 @@ continually updating 😃.
 * [350. Intersection of Two Arrays II](./src/0350_intersection_of_two_arrays2/intersection_of_two_arrays2.go)&nbsp;&nbsp;&nbsp;*`hash table`*
 * [447. Number of Boomerangs](./src/0447_number_of_boomerangs/number_of_boomerangs.go)&nbsp;&nbsp;&nbsp;*`hash table`*
 * [454. 4Sum II](./src/0454_4sum2/4sum2.go)&nbsp;&nbsp;&nbsp;*`hash table`*
+* [674. Longest Continuous Increasing Subsequence](src/0674_longest_continuous_increasing_subsequence/lcis.go)
 * [713. Subarray Product Less Than K](src/0713_subarray_product_less_than_k/spltk.go)&nbsp;&nbsp;&nbsp;*`sliding window`*&nbsp;&nbsp;*`array`*
 * [717. 1-bit and 2-bit Characters](src/0717_1_bit_and_2_bit_characters/1bitand2bitc.go)
 * [747. Largest Number At Least Twice of Others](./src/0747_largest_number_at_least_twice_of_others/largest_number_at_least_twice_of_others.go)
