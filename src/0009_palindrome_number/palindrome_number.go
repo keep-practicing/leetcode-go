@@ -10,7 +10,7 @@ An integer is a palindrome when it reads the same backward as forward.
 package palindromenumber
 
 // Time complexity: O(log 10 (n))
-// Space complexity : O(1)O(1).
+// Space complexity : O(1)
 func isPalindrome(x int) bool {
 	var (
 		y int
