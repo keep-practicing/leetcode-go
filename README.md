@@ -83,5 +83,8 @@ continually updating 😃.
 * [69. Sqrt(x)](./src/0069_sqrtx/sqrtx.go)&nbsp;&nbsp;&nbsp;*`math;`*&nbsp;&nbsp;*`binary search`*
 * [704. Binary Search](./src/0704_binary_search/binary_search.go)
 
+### Math
+* [7. Reverse Integer](src/0007_reverse_integer/reverse_integer.go)
+
 <details>
 </details>
