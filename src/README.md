@@ -6,6 +6,7 @@
 |0002|[Add Two Numbers](0002_add_two_numbers/add_two_numbers.go)|Medium|*`linked list`*|
 |0003|[Longest Substring Without Repeating Characters](0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)|Medium|*`sliding window`*|
 |0004|[4. Median of Two Sorted Arrays](0004_median_of_two_sorted_arrays/motsa.go)|Hard|*`binary search`*|
+|0007|[7. Reverse Integer](0007_reverse_integer/reverse_integer.go)|Easy|*`math`*|
 |0011|[11. Container With Most Water](0011_container_with_most_water/container_with_most_water.go)|Medium|*`array;`*  *`double index`*|
 |0017|[Letter Combinations of a Phone Number](0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)|Medium|*`tree`*|
 |0020|[Valid Parentheses](0020_valid_parentheses/valid_parentheses.go)|Easy|*`string;`* *`stack`*|
