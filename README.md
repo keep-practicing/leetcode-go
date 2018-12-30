@@ -87,6 +87,7 @@ continually updating 😃.
 
 ### Math
 * [7. Reverse Integer](src/0007_reverse_integer/reverse_integer.go)
+* [9. Palindrome Number](src/0009_palindrome_number/palindrome_number.go)
 
 <details>
 </details>
