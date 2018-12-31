@@ -8,7 +8,7 @@ Given a linked list, remove the n-th node from the end of list and return its he
 
 package rnthnfeol
 
-// Definition for singly-linked list.
+// ListNode Definition for singly-linked list.
 type ListNode struct {
 	Val  int
 	Next *ListNode
