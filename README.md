@@ -88,6 +88,7 @@ continually updating 😃.
 ### Math
 * [7. Reverse Integer](src/0007_reverse_integer/reverse_integer.go)
 * [9. Palindrome Number](src/0009_palindrome_number/palindrome_number.go)
+* [13. Roman to Integer](src/0013_roman_to_integer/roman_to_integer.go)&nbsp;&nbsp;&nbsp;*`string`*
 
 <details>
 </details>
