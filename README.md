@@ -37,6 +37,7 @@ continually updating 😃.
 
 ### String
 * [3. Longest Substring Without Repeating Characters](./src/0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)&nbsp;&nbsp;&nbsp;*`sliding window;`*&nbsp;&nbsp;*`hash table`*
+* [14. Longest Common Prefix](src/0014_longest_common_prefix/lcp.go)
 * [17. Letter Combinations of a Phone Number](./src/0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)&nbsp;&nbsp;&nbsp;*`tree`*
 * [20. Valid Parentheses](./src/0020_valid_parentheses/valid_parentheses.go)&nbsp;&nbsp;&nbsp;*`stack`*
 * [67. Add Binary](./src/0067_add_binary/add_binary.go)&nbsp;&nbsp;&nbsp;*`brute force`*
