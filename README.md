@@ -98,6 +98,7 @@ continually updating 😃.
 * [7. Reverse Integer](src/0007_reverse_integer/reverse_integer.go)
 * [9. Palindrome Number](src/0009_palindrome_number/palindrome_number.go)
 * [13. Roman to Integer](src/0013_roman_to_integer/roman_to_integer.go)&nbsp;&nbsp;&nbsp;*`string`*
+* [66. Plus One](src/0066_plus_one/plus_one.go)&nbsp;&nbsp;&nbsp;*`array`*
 
 <details>
 </details>

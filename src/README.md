@@ -31,6 +31,7 @@
 |0062|[Unique Paths](./0062_unique_paths/unique_paths.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0063|[Unique Paths 2](./0063_unique_paths_2/unique_paths2.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0064|[Minimum Path Sum](./0064_minimum_path_sum/minimum_path_sum.go)|Medium|*`dynamic programming;`* *` dfs`*|
+|0066|[66. Plus One](0066_plus_one/plus_one.go)|Easy|*`math`*|
 |0067|[add Binary](./0067_add_binary/add_binary.go)|Easy||
 |0069|[Sqrt(x)](0069_sqrtx/sqrtx.go)|Easy|*`binary search`*|
 |0070|[Climbing Stairs](./0070_climbing_stairs/climbing_stairs.go)|Easy|*`dynamic programming`*|
