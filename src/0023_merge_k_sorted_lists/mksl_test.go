@@ -22,12 +22,18 @@ func TestMergeKLists(t *testing.T) {
 			createSingleList([]int{}),
 			createSingleList([]int{}),
 		},
+		{
+			createSingleList([]int{1, 4, 5}),
+			createSingleList([]int{1, 3, 4}),
+			createSingleList([]int{2, 6}),
+		},
 	}
 
 	expected := []*ListNode{
 		createSingleList([]int{1, 2, 3, 4, 4, 4, 5, 6}),
 		createSingleList([]int{4, 5}),
 		nil,
+		createSingleList([]int{1, 1, 2, 3, 4, 4, 5, 6}),
 	}
 
 	for index, lists := range testCases {
