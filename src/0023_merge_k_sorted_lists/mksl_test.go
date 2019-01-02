@@ -7,19 +7,27 @@ import (
 
 func TestMergeKLists(t *testing.T) {
 	testCases := [][]*ListNode{
-		{createSingleList([]int{1, 4, 5}),
-			createSingleList([]int{1, 3, 4}),
-			createSingleList([]int{2, 6})},
+		{
+			createSingleList([]int{1, 4, 5}),
+			createSingleList([]int{2, 3, 4}),
+			createSingleList([]int{4, 6}),
+		},
 		{
 			createSingleList([]int{}),
 			createSingleList([]int{4, 5}),
 			createSingleList([]int{}),
 		},
+		{
+			createSingleList([]int{}),
+			createSingleList([]int{}),
+			createSingleList([]int{}),
+		},
 	}
 
 	expected := []*ListNode{
-		createSingleList([]int{1, 1, 2, 3, 4, 4, 5, 6}),
+		createSingleList([]int{1, 2, 3, 4, 4, 4, 5, 6}),
 		createSingleList([]int{4, 5}),
+		nil,
 	}
 
 	for index, lists := range testCases {
@@ -31,12 +39,19 @@ func TestMergeKLists(t *testing.T) {
 
 func TestMergeKLists1(t *testing.T) {
 	testCases := [][]*ListNode{
-		{createSingleList([]int{1, 4, 5}),
+		{
+			createSingleList([]int{1, 4, 5}),
 			createSingleList([]int{1, 3, 4}),
-			createSingleList([]int{2, 6})},
+			createSingleList([]int{2, 6}),
+		},
 		{
 			createSingleList([]int{}),
 			createSingleList([]int{4, 5}),
+			createSingleList([]int{}),
+		},
+		{
+			createSingleList([]int{}),
+			createSingleList([]int{}),
 			createSingleList([]int{}),
 		},
 	}
@@ -44,6 +59,7 @@ func TestMergeKLists1(t *testing.T) {
 	expected := []*ListNode{
 		createSingleList([]int{1, 1, 2, 3, 4, 4, 5, 6}),
 		createSingleList([]int{4, 5}),
+		nil,
 	}
 
 	for index, lists := range testCases {
