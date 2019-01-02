@@ -26,6 +26,7 @@
 |0035|[35. Search Insert Position](0035_search_insert_position/search_insert_position.go)|Easy|*`binary search`*|
 |0048|[48. Rotate Image](0048_rotate_image/rotate_image.go)|Medium|*`array`*|
 |0053|[53. Maximum Subarray](0053_maximum_subarray/maximum_subarray.go)|Easy|*`dynamic programming`*|
+|0058|[58. Length of Last Word](0058_length_of_last_word/len_of_last_word.go)|Easy||
 |0061|[Rotate List](./0061_rotate_list/rotate_list.go)|Medium|*`linked list`*|
 |0062|[Unique Paths](./0062_unique_paths/unique_paths.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0063|[Unique Paths 2](./0063_unique_paths_2/unique_paths2.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
