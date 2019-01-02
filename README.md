@@ -52,6 +52,7 @@ continually updating 😃.
 * [19. Remove Nth Node From End of List](src/0019_remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.go)&nbsp;&nbsp;&nbsp;*`two pointers`*
 * [21. Merge Two Sorted Lists](./src/0021_merge_two_sorted_lists/mergeTwoLists.go)
 * [23. Merge k Sorted Lists](src/0023_merge_k_sorted_lists/mksl.go)&nbsp;&nbsp;&nbsp;*`heap`*
+* [24. Swap Nodes in Pairs](src/0024_swap_nodes_in_pairs/swap_nodes_in_pairs.go)
 * [25. Reverse Nodes in k-Group](./src/0025_reverse_nodes_in_k_group/reverse_node_k_group.go)
 * [61. Rotate List](./src/0061_rotate_list/rotate_list.go)
 
