@@ -16,6 +16,7 @@ continually updating 😃.
 * [26. Remove Duplicates from Sorted Array](./src/0026_remove_duplicates_from_sorted_array/rdfsa.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [27. Remove Element](src/0027_remove_element/remove_element.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [48. Rotate Image](src/0048_rotate_image/rotate_image.go)
+* [53. Maximum Subarray](src/0053_maximum_subarray/maximum_subarray.go)&nbsp;&nbsp;&nbsp;*`dynamic programming`*
 * [75. Sort Colors](./src/0075_sort_colors/sort_colors.go)&nbsp;&nbsp;&nbsp;*`sort;`*&nbsp;&nbsp;*`array`*
 * [80. Remove Duplicates from Sorted Array II](./src/0080_remove_duplicates_from_sorted_array2/rdfsa2.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [88. Merge Sorted Array](./src/0088_merge_sorted_array/msa.go)&nbsp;&nbsp;&nbsp;*`sort;`*&nbsp;&nbsp;*`array`*
