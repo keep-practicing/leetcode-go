@@ -40,6 +40,7 @@ continually updating 😃.
 * [14. Longest Common Prefix](src/0014_longest_common_prefix/lcp.go)
 * [17. Letter Combinations of a Phone Number](./src/0017_letter_combination_of_a_phone_number/letter_combination_of_phone_number.go)&nbsp;&nbsp;&nbsp;*`tree`*
 * [20. Valid Parentheses](./src/0020_valid_parentheses/valid_parentheses.go)&nbsp;&nbsp;&nbsp;*`stack`*
+* [28. Implement strStr()](src/0028_implement_strstr/implement_strstr.go)&nbsp;&nbsp;&nbsp;*`double index`*
 * [67. Add Binary](./src/0067_add_binary/add_binary.go)&nbsp;&nbsp;&nbsp;*`brute force`*
 * [76. Minimum Window Substring](./src/0076_minimum_window_substring/minimum_window_substring.go) &nbsp;&nbsp;&nbsp;*`sliding window`*
 * [125. Valid Palindrome](./src/0125_valid_palindrome/valid_palindrome.go)&nbsp;&nbsp;&nbsp;*`string;`*&nbsp;&nbsp;*`double index`*
