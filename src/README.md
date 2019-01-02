@@ -15,6 +15,7 @@
 |0019|[19. Remove Nth Node From End of List](0019_remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.go)|Medium|*`linked list`*|
 |0020|[Valid Parentheses](0020_valid_parentheses/valid_parentheses.go)|Easy|*`string;`* *`stack`*|
 |0021|[Merge Two Sorted Lists](0021_merge_two_sorted_lists/mergeTwoLists.go)|Easy|*`linked list`*|
+|0023|[23. Merge k Sorted Lists](0023_merge_k_sorted_lists/mksl.go)|Hard|*`linked list;`**`heap`*|
 |0025|[Reverse Nodes in k-Group](./0025_reverse_nodes_in_k_group/reverse_node_k_group.go)|Hard|*`linked list`*|
 |0026|[Remove Duplicates from Sorted Array](0026_remove_duplicates_from_sorted_array/rdfsa.go)|Easy|*`array;`*  *`double index`*|
 |0027|[Remove Element](0027_remove_element/remove_element.go)|Easy|*`array`*|
