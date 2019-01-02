@@ -22,7 +22,8 @@
 |0027|[Remove Element](0027_remove_element/remove_element.go)|Easy|*`array`*|
 |0028|[28. Implement strStr()](0028_implement_strstr/implement_strstr.go)|Easy|*`double index`*|
 |0033|[Search in Rotated Sorted Array](0033_search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)|Medium|*`binary search`*|
-|0034|[ Find First and Last Position of Element in Sorted Array](0034_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.go)|Medium|*`binary search`*|
+|0034|[Find First and Last Position of Element in Sorted Array](0034_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.go)|Medium|*`binary search`*|
+|0035|[35. Search Insert Position](0035_search_insert_position/search_insert_position.go)|Easy|*`binary search`*|
 |0061|[Rotate List](./0061_rotate_list/rotate_list.go)|Medium|*`linked list`*|
 |0062|[Unique Paths](./0062_unique_paths/unique_paths.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0063|[Unique Paths 2](./0063_unique_paths_2/unique_paths2.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
