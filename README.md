@@ -85,14 +85,15 @@ continually updating 😃.
 * [77. Combinations](src/0077_combinations/combinations.go)&nbsp;&nbsp;&nbsp;*`combine`*
 * [79. Word Search](src/0079_word_search/word_search.go)&nbsp;&nbsp;&nbsp;*`array`*
 
-### Binary Tree
-* [94. Binary Tree Inorder Traversal](./src/0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)&nbsp;&nbsp;&nbsp;*`stack`*
-* [100. Same Tree](./src/0100_same_tree/same_tree.go)&nbsp;&nbsp;&nbsp;*`dfs`*
-* [101. Symmetric Tree](./src/0101_symmetric_tree/symmetric_tree.go)&nbsp;&nbsp;&nbsp;*`dfs;`*&nbsp;&nbsp;*`bfs;`*
-* [107. Binary Tree Level Order Traversal II](./src/0107_binary_tree_level_order_traversal_2/binary_tree_level_order_traversal2.go)&nbsp;&nbsp;&nbsp;*`bfs`*
-* [111. Minimum Depth of Binary Tree](./src/0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)&nbsp;&nbsp;&nbsp;*`dfs`*
-* [112. Path Sum](./src/0112_path_sum/path_sum.go)&nbsp;&nbsp;&nbsp;*`dfs`*
-* [226. Invert Binary Tree](./src/0226_invert_binary_tree/invert_binary_tree.go)
+### Tree
+* [94. Binary Tree Inorder Traversal](./src/0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`stack`*
+* [100. Same Tree](./src/0100_same_tree/same_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
+* [101. Symmetric Tree](./src/0101_symmetric_tree/symmetric_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs;`*&nbsp;&nbsp;*`bfs;`*
+* [102. Binary Tree Level Order Traversal](src/0102_binary_tree_level_order_traversal/binary_tree_level_order_traversal.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
+* [107. Binary Tree Level Order Traversal II](./src/0107_binary_tree_level_order_traversal_2/binary_tree_level_order_traversal2.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`bfs`*
+* [111. Minimum Depth of Binary Tree](./src/0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
+* [112. Path Sum](./src/0112_path_sum/path_sum.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
+* [226. Invert Binary Tree](./src/0226_invert_binary_tree/invert_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
 
 ### Binary Search
 * [33. Search in Rotated Sorted Array](./src/0033_search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
