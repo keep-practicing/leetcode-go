@@ -60,6 +60,7 @@ continually updating 😃.
 * [25. Reverse Nodes in k-Group](./src/0025_reverse_nodes_in_k_group/reverse_node_k_group.go)
 * [61. Rotate List](./src/0061_rotate_list/rotate_list.go)
 * [82. Remove Duplicates from Sorted List II](src/0082_remove_duplicates_from_sorted_list_2/rdfsl.go)
+* [83. Remove Duplicates from Sorted List](src/0083_remove_duplicates_from_sorted_list/rdfsl.go)
 
 ### Dynamic Programming
 * [62. Unique Paths](./src/0062_unique_paths/unique_paths.go)&nbsp;&nbsp;&nbsp;*`array`*
