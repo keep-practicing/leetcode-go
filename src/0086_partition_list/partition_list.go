@@ -11,6 +11,7 @@ You should preserve the original relative order of the nodes in each of the two 
 
 package partitionlist
 
+// ListNode Definition for singly-linked list.
 type ListNode struct {
 	Val  int
 	Next *ListNode
