@@ -40,6 +40,7 @@
 |0077|[77. Combinations](0077_combinations/combinations.go)|Medium|*`backtracking;`**`combine`*|
 |0079|[79. Word Search](0079_word_search/word_search.go)|Medium|*`backtracking;`**`array`*|
 |0080|[80. Remove Duplicates from Sorted Array II](0080_remove_duplicates_from_sorted_array2/rdfsa2.go)|Medium|*`double index`*|
+|0082|[82. Remove Duplicates from Sorted List II](0082_remove_duplicates_from_sorted_list_2/rdfsl.go)|Medium|*`linked list`*|
 |0088|[88. Merge Sorted Array](0088_merge_sorted_array/msa.go)|Easy|*`sort`*|
 |0094|[Binary Tree Inorder Traversal](./0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)|Medium|*`binary tree`*|
 |0100|[Same Tree](./0100_same_tree/same_tree.go)|Easy|*`binary tree`*|
