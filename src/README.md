@@ -37,6 +37,7 @@
 |0070|[Climbing Stairs](./0070_climbing_stairs/climbing_stairs.go)|Easy|*`dynamic programming`*|
 |0075|[75. Sort Colors](0075_sort_colors/sort_colors.go)|Medium|*`sort`*|
 |0076|[Minimum Window Substring](./0076_minimum_window_substring/minimum_window_substring.go)|Hard|*`sliding window`*|
+|0077|[77. Combinations](0077_combinations/combinations.go)|Medium|*`backtracking;`**`combine`*|
 |0080|[80. Remove Duplicates from Sorted Array II](0080_remove_duplicates_from_sorted_array2/rdfsa2.go)|Medium|*`double index`*|
 |0088|[88. Merge Sorted Array](0088_merge_sorted_array/msa.go)|Easy|*`sort`*|
 |0094|[Binary Tree Inorder Traversal](./0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)|Medium|*`binary tree`*|

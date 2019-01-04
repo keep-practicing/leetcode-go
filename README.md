@@ -78,6 +78,9 @@ continually updating 😃.
 * [435. Non-overlapping Intervals](./src/0435_non_overlapping_intervals/greedy_solution.go)&nbsp;&nbsp;&nbsp;*`greedy;`*&nbsp;&nbsp;*`dynamic programming`*
 * [455. Assign Cookies](./src/0455_assign_cookies/assign_cookies.go)
 
+### Backtracking
+* [77. Combinations](src/0077_combinations/combinations.go)&nbsp;&nbsp;&nbsp;*`combine`*
+
 ### Binary Tree
 * [94. Binary Tree Inorder Traversal](./src/0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)&nbsp;&nbsp;&nbsp;*`stack`*
 * [100. Same Tree](./src/0100_same_tree/same_tree.go)&nbsp;&nbsp;&nbsp;*`dfs`*
