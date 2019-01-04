@@ -80,6 +80,7 @@ continually updating 😃.
 
 ### Backtracking
 * [77. Combinations](src/0077_combinations/combinations.go)&nbsp;&nbsp;&nbsp;*`combine`*
+* [79. Word Search](src/0079_word_search/word_search.go)&nbsp;&nbsp;&nbsp;*`array`*
 
 ### Binary Tree
 * [94. Binary Tree Inorder Traversal](./src/0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)&nbsp;&nbsp;&nbsp;*`stack`*
