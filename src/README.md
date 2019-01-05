@@ -44,6 +44,7 @@
 |0083|[83. Remove Duplicates from Sorted List](0083_remove_duplicates_from_sorted_list/rdfsl.go)|Easy|*`linked list`*|
 |0086|[86. Partition List](0086_partition_list/partition_list.go)|Medium|*`linked list`*|
 |0088|[88. Merge Sorted Array](0088_merge_sorted_array/msa.go)|Easy|*`sort`*|
+|0092|[92. Reverse Linked List II](0092_reverse_linked_list_2/reverse_linked_list2.go)|Medium|*`linked list`*|
 |0094|[Binary Tree Inorder Traversal](./0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)|Medium|*`binary tree`*|
 |0100|[Same Tree](./0100_same_tree/same_tree.go)|Easy|*`binary tree`*|
 |0101|[Symmetric Tree](./0101_symmetric_tree/symmetric_tree.go)|Easy|*`stack;`* *`recursion; `* *`iterative`*|
