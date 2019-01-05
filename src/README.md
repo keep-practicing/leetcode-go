@@ -42,6 +42,7 @@
 |0080|[80. Remove Duplicates from Sorted Array II](0080_remove_duplicates_from_sorted_array2/rdfsa2.go)|Medium|*`double index`*|
 |0082|[82. Remove Duplicates from Sorted List II](0082_remove_duplicates_from_sorted_list_2/rdfsl.go)|Medium|*`linked list`*|
 |0083|[83. Remove Duplicates from Sorted List](0083_remove_duplicates_from_sorted_list/rdfsl.go)|Easy|*`linked list`*|
+|0086|[86. Partition List](0086_partition_list/partition_list.go)|Medium|*`linked list`*|
 |0088|[88. Merge Sorted Array](0088_merge_sorted_array/msa.go)|Easy|*`sort`*|
 |0092|[92. Reverse Linked List II](0092_reverse_linked_list_2/reverse_linked_list2.go)|Medium|*`linked list`*|
 |0094|[Binary Tree Inorder Traversal](./0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)|Medium|*`binary tree`*|
