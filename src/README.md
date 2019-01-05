@@ -48,6 +48,7 @@
 |0094|[Binary Tree Inorder Traversal](./0094_binary_tree_inorder_traversal/binary_tree_inorder_traversal.go)|Medium|*`binary tree`*|
 |0100|[Same Tree](./0100_same_tree/same_tree.go)|Easy|*`binary tree`*|
 |0101|[Symmetric Tree](./0101_symmetric_tree/symmetric_tree.go)|Easy|*`stack;`* *`recursion; `* *`iterative`*|
+|0102|[102. Binary Tree Level Order Traversal](0102_binary_tree_level_order_traversal/binary_tree_level_order_traversal.go)|Medium|*`binary tree;`* *`bfs`*|
 |0107|[Binary Tree Level Order Traversal II](./0107_binary_tree_level_order_traversal_2/binary_tree_level_order_traversal2.go)|Easy|*`binary tree`*|
 |0111|[Minimum Depth of Binary Tree](./0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)|Easy|*`binary tree`*|
 |0112|[Path Sum](./0112_path_sum/path_sum.go)|Easy|*`binary tree`*|
