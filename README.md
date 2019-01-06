@@ -91,6 +91,7 @@ continually updating 😃.
 * [100. Same Tree](./src/0100_same_tree/same_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
 * [101. Symmetric Tree](./src/0101_symmetric_tree/symmetric_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs;`*&nbsp;&nbsp;*`bfs;`*
 * [102. Binary Tree Level Order Traversal](src/0102_binary_tree_level_order_traversal/binary_tree_level_order_traversal.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
+* [104. Maximum Depth of Binary Tree](src/0104_maximun_depth_of_binary_tree/maxdobt.go)&nbsp;&nbsp;&nbsp;*`binary tree depth`*
 * [107. Binary Tree Level Order Traversal II](./src/0107_binary_tree_level_order_traversal_2/binary_tree_level_order_traversal2.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`bfs`*
 * [111. Minimum Depth of Binary Tree](./src/0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
 * [112. Path Sum](./src/0112_path_sum/path_sum.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
