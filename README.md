@@ -94,6 +94,7 @@ continually updating 😃.
 * [107. Binary Tree Level Order Traversal II](./src/0107_binary_tree_level_order_traversal_2/binary_tree_level_order_traversal2.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`bfs`*
 * [111. Minimum Depth of Binary Tree](./src/0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
 * [112. Path Sum](./src/0112_path_sum/path_sum.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
+* [144. Binary Tree Preorder Traversal](src/0144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`pre-order traversal`*
 * [226. Invert Binary Tree](./src/0226_invert_binary_tree/invert_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
 
 ### Binary Search

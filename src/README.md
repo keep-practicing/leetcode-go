@@ -56,6 +56,7 @@
 |0121|[121. Best Time to Buy and Sell Stock](0121_best_time_to_buy_and_sell_stock/maxprofit.go)|Easy||
 |0122|[122. Best Time to Buy and Sell Stock II](0122_best_time_to_buy_and_sell_stock_2/maxprofit.go)|Easy|*`greedy`*|
 |0125|[Valid Palindrome](0125_valid_palindrome/valid_palindrome.go)|Easy||
+|0144|[144. Binary Tree Preorder Traversal](0144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.go)|Medium|*`binary tree`*|
 |0167|[Two Sum II - Input array is sorted](./0167_two_sum2/two_sum2.go)|Easy|*`对撞指针(双索引)`*|
 |0198|[House Robber](./0198_house_robber/house_robber.go)|Easy|*`memory search;`* *`dynamic programming`*|
 |0209|[Minimum Size Subarray Sum](./0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)|Medium|*`sliding window`*|
