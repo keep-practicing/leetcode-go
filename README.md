@@ -103,8 +103,9 @@ continually updating 😃.
 * [111. Minimum Depth of Binary Tree](./src/0111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
 * [112. Path Sum](./src/0112_path_sum/path_sum.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`dfs`*
 * [144. Binary Tree Preorder Traversal](src/0144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`pre-order traversal`*
-* [226. Invert Binary Tree](./src/0226_invert_binary_tree/invert_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
+* [226. Invert Binary Tree](src/0226_invert_binary_tree/invert_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
 * [235. Lowest Common Ancestor of a Binary Search Tree](src/0235_lowest_common_ancestor_of_a_binary_search_tree/lcaoabst.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
+* [257. Binary Tree Paths](src/0257_binary_tree_paths/binary_tree_paths.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 
 ### Binary Search
 * [33. Search in Rotated Sorted Array](./src/0033_search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
