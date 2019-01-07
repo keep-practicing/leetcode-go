@@ -103,6 +103,7 @@ continually updating 😃.
 * [34. Find First and Last Position of Element in Sorted Array](./src/0034_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
 * [35. Search Insert Position](src/0035_search_insert_position/search_insert_position.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
 * [69. Sqrt(x)](./src/0069_sqrtx/sqrtx.go)&nbsp;&nbsp;&nbsp;*`math;`*&nbsp;&nbsp;*`binary search`*
+* [153. Find Minimum in Rotated Sorted Array](src/0153_find_minimum_in_rotated_sorted_array/fmirsa.go)
 * [704. Binary Search](./src/0704_binary_search/binary_search.go)
 
 ### Math
