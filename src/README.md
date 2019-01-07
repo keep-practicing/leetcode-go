@@ -86,6 +86,7 @@
 |0350| [Intersection of Two Arrays II](./0350_intersection_of_two_arrays2/intersection_of_two_arrays2.go)|Easy|*`map`*|
 |0376|[Wiggle Subsequence](./0376_wiggle_subsequence/wiggle_subsequence.go)|Medium|*`dp`*|
 |0392|[Is Subsequence](./0392_is_subsequence/is_subsequence.go)|Medium|*`greedy algorithm`*|
+|0404|[404. Sum of Left Leaves](0404_sum_of_left_leaves/sum_of_left_leaves.go)|Easy|*`binary tree`*|
 |0416|[Partition Equal Subset Sum](./0416_partition_equal_subset_sum/partition_equal_subset_sum.go)|Medium|*`dp;`* *`0-1 knapsack problem`*|
 |0435|[Non-overlapping Intervals(dp solution)](./0435_non_overlapping_intervals/dp_solution.go)   <br/>[Non-overlapping Intervals(greedy solution)](./0435_non_overlapping_intervals/greedy_solution.go)|Medium|*`dp;`* *`0-1 knapsack problem`*|
 |0438|[ Find All Anagrams in a String](./0438_all_anagrams_in_a_string/all_anagrams_in_a_string.go)|Easy|*`sliding window`*|
