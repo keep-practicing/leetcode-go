@@ -68,6 +68,7 @@
 |0206|[206. Reverse Linked List](0206_reverse_linked_list/reverse_linked_list.go)|Easy|*`linked list`*|
 |0209|[Minimum Size Subarray Sum](./0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)|Medium|*`sliding window`*|
 |0215|[215. Kth Largest Element in an Array](0215_kth_largest_element_in_an_array/kthleiaa.go)|Medium|*`sort`*|
+|0217|[217. Contains Duplicate](0217_contains_duplicate/contains_duplicate.go)|Easy|*`map`*|
 |0226|[Invert Binary Tree](./0226_invert_binary_tree/invert_binary_tree.go)|Easy|*`recursion; `* *`binary tree`*|
 |0283|[Move Zeroes(solution1)](./0283_move_zeroes/move_zeroes.go) <br/>  [Move Zeroes(solution2)](./0283_move_zeroes/move_zeroes2.go)|Easy|*`array`*|
 |0300|[Longest Increasing Subsequence](./0300_longest_increasing_subsequence/lis.go)|Medium|*`dp`*|
