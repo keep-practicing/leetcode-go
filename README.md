@@ -70,6 +70,7 @@ continually updating 😃.
 * [203. Remove Linked List Elements](src/0203_remove_linked_list_elements/remove_linked_list_elements.go)
 * [206. Reverse Linked List](src/0206_reverse_linked_list/reverse_linked_list.go)
 * [237. Delete Node in a Linked List](src/0237_delete_node_in_a_linked_list/dniall.go)
+* [328. Odd Even Linked List](src/0328_odd_even_linked_list/odd_even_linked_list.go)
 
 ### Dynamic Programming
 * [62. Unique Paths](./src/0062_unique_paths/unique_paths.go)&nbsp;&nbsp;&nbsp;*`array`*
