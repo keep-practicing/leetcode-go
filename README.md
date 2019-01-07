@@ -66,6 +66,7 @@ continually updating 😃.
 * [86. Partition List](src/0086_partition_list/partition_list.go)&nbsp;&nbsp;&nbsp;*`two pointers`*
 * [92. Reverse Linked List II](src/0092_reverse_linked_list_2/reverse_linked_list2.go)
 * [203. Remove Linked List Elements](src/0203_remove_linked_list_elements/remove_linked_list_elements.go)
+* [206. Reverse Linked List](src/0206_reverse_linked_list/reverse_linked_list.go)
 
 ### Dynamic Programming
 * [62. Unique Paths](./src/0062_unique_paths/unique_paths.go)&nbsp;&nbsp;&nbsp;*`array`*
