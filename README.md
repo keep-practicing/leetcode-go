@@ -121,6 +121,7 @@ continually updating 😃.
 * [13. Roman to Integer](src/0013_roman_to_integer/roman_to_integer.go)&nbsp;&nbsp;&nbsp;*`string`*
 * [66. Plus One](src/0066_plus_one/plus_one.go)&nbsp;&nbsp;&nbsp;*`array`*
 * [150. Evaluate Reverse Polish Notation](src/0150_evaluate_reverse_polish_notation/evaluate_reverse_polish_notation.go)&nbsp;&nbsp;&nbsp;*`stack`*
+* [258. Add Digits](src/0258_add_digits/add_digits.go)
 
 <details>
 </details>
