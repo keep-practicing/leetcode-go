@@ -27,6 +27,7 @@ continually updating 😃.
 * [209. Minimum Size Subarray Sum](./src/0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
 * [215. Kth Largest Element in an Array](./src/0215_kth_largest_element_in_an_array/kthleiaa.go)&nbsp;&nbsp;&nbsp;*`sort`*
 * [217. Contains Duplicate](src/0217_contains_duplicate/contains_duplicate.go)&nbsp;&nbsp;&nbsp;*`map`*
+* [219. Contains Duplicate II](src/0219_contains_duplicate_2/contains_duplicate_2.go)&nbsp;&nbsp;&nbsp;*`map`*
 * [283. Move Zeroes(solution1)](./src/0283_move_zeroes/move_zeroes.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
 * [283. Move Zeroes(solution2)](./src/0283_move_zeroes/move_zeroes2.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
 * [303. Range Sum Query - Immutable](src/0303_range_sum_query/rsqim.go)
