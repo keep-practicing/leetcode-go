@@ -73,6 +73,7 @@
 |0226|[Invert Binary Tree](./0226_invert_binary_tree/invert_binary_tree.go)|Easy|*`recursion; `* *`binary tree`*|
 |0235|[235. Lowest Common Ancestor of a Binary Search Tree](0235_lowest_common_ancestor_of_a_binary_search_tree/lcaoabst.go)|Easy|*`recursion; `* *`binary tree`*|
 |0237|[237. Delete Node in a Linked List](0237_delete_node_in_a_linked_list/dniall.go)|Easy|*`linked list`*|
+|0257|[257. Binary Tree Paths](0257_binary_tree_paths/binary_tree_paths.go)|Easy|*`binary tree`*|
 |0283|[Move Zeroes(solution1)](./0283_move_zeroes/move_zeroes.go) <br/>  [Move Zeroes(solution2)](./0283_move_zeroes/move_zeroes2.go)|Easy|*`array`*|
 |0300|[Longest Increasing Subsequence](./0300_longest_increasing_subsequence/lis.go)|Medium|*`dp`*|
 |0303|[303. Range Sum Query - Immutable](0303_range_sum_query/rsqim.go)|Easy||
