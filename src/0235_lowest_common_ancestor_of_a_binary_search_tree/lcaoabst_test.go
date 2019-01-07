@@ -10,10 +10,10 @@ func TestLowestCommonAncestor(t *testing.T) {
 	}
 
 	testCases := []arg{
-		{root: createBinaryTree([]int{6, 2, 8, 0, 4, 7, 9}), p: &TreeNode{Val: 2}, q: &TreeNode{Val: 8}},
+		{root: createBinaryTree([]int{6, 2, 8, 0, 4, 7, 9, -1, 1, 3, 5}), p: &TreeNode{Val: 3}, q: &TreeNode{Val: 5}},
 		{p: &TreeNode{Val: 2}, q: &TreeNode{Val: 8}},
 	}
-	expected := []*TreeNode{{Val: 6}, nil}
+	expected := []*TreeNode{{Val: 4}, nil}
 
 	for index, data := range testCases {
 		if res := lowestCommonAncestor(data.root, data.p, data.q); res != nil && res.Val != expected[index].Val {
