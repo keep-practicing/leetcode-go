@@ -108,6 +108,7 @@ continually updating 😃.
 * [235. Lowest Common Ancestor of a Binary Search Tree](src/0235_lowest_common_ancestor_of_a_binary_search_tree/lcaoabst.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
 * [257. Binary Tree Paths](src/0257_binary_tree_paths/binary_tree_paths.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 * [404. Sum of Left Leaves](src/0404_sum_of_left_leaves/sum_of_left_leaves.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
+* [437. Path Sum III](src/0437_path_sum_3/path_sum_3.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 
 ### Binary Search
 * [33. Search in Rotated Sorted Array](./src/0033_search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)&nbsp;&nbsp;&nbsp;*`array;`*&nbsp;&nbsp;*`binary search`*
