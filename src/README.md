@@ -15,7 +15,7 @@
 |0019|[19. Remove Nth Node From End of List](0019_remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.go)|Medium|*`linked list`*|
 |0020|[Valid Parentheses](0020_valid_parentheses/valid_parentheses.go)|Easy|*`string;`* *`stack`*|
 |0021|[Merge Two Sorted Lists](0021_merge_two_sorted_lists/mergeTwoLists.go)|Easy|*`linked list`*|
-|0023|[23. Merge k Sorted Lists](0023_merge_k_sorted_lists/mksl.go)|Hard|*`linked list;`**`heap`*|
+|0023|[23. Merge k Sorted Lists](0023_merge_k_sorted_lists/mksl.go)|Hard|*`linked list;`* *`heap`*|
 |0024|[24. Swap Nodes in Pairs](0024_swap_nodes_in_pairs/swap_nodes_in_pairs.go)|Medium|*`linked list`*|
 |0025|[Reverse Nodes in k-Group](./0025_reverse_nodes_in_k_group/reverse_node_k_group.go)|Hard|*`linked list`*|
 |0026|[Remove Duplicates from Sorted Array](0026_remove_duplicates_from_sorted_array/rdfsa.go)|Easy|*`array;`*  *`double index`*|
@@ -37,8 +37,8 @@
 |0070|[Climbing Stairs](./0070_climbing_stairs/climbing_stairs.go)|Easy|*`dynamic programming`*|
 |0075|[75. Sort Colors](0075_sort_colors/sort_colors.go)|Medium|*`sort`*|
 |0076|[Minimum Window Substring](./0076_minimum_window_substring/minimum_window_substring.go)|Hard|*`sliding window`*|
-|0077|[77. Combinations](0077_combinations/combinations.go)|Medium|*`backtracking;`**`combine`*|
-|0079|[79. Word Search](0079_word_search/word_search.go)|Medium|*`backtracking;`**`array`*|
+|0077|[77. Combinations](0077_combinations/combinations.go)|Medium|*`backtracking;`* *`combine`*|
+|0079|[79. Word Search](0079_word_search/word_search.go)|Medium|*`backtracking;`* *`array`*|
 |0080|[80. Remove Duplicates from Sorted Array II](0080_remove_duplicates_from_sorted_array2/rdfsa2.go)|Medium|*`double index`*|
 |0082|[82. Remove Duplicates from Sorted List II](0082_remove_duplicates_from_sorted_list_2/rdfsl.go)|Medium|*`linked list`*|
 |0083|[83. Remove Duplicates from Sorted List](0083_remove_duplicates_from_sorted_list/rdfsl.go)|Easy|*`linked list`*|
