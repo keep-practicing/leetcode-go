@@ -101,3 +101,4 @@
 |0717|[717. 1-bit and 2-bit Characters](0717_1_bit_and_2_bit_characters/1bitand2bitc.go)|Easy||
 |0728|[Self Dividing Numbers](./0728_self_dividing_numbers/self_dividing_numbers.go)|Easy||
 |0747|[Largest Number At Least Twice of Others](./0747_largest_number_at_least_twice_of_others/largest_number_at_least_twice_of_others.go)|Easy||
+|0872|[872. Leaf-Similar Trees](0872_leaf_similar_trees/leaf_similar_trees.go)|Easy|*`binary tree`*|
