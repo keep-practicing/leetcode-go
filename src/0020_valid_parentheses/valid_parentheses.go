@@ -59,8 +59,5 @@ func isValid(s string) bool {
 			stacks = append(stacks, char)
 		}
 	}
-	if len(stacks) > 0 {
-		return false
-	}
-	return true
+	return len(stacks) == 0
 }
