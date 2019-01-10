@@ -60,6 +60,7 @@
 |0144|[144. Binary Tree Preorder Traversal](0144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.go)|Medium|*`binary tree`*|
 |0150|[150. Evaluate Reverse Polish Notation](0150_evaluate_reverse_polish_notation/evaluate_reverse_polish_notation.go)|Medium|*`stack`*|
 |0153|[153. Find Minimum in Rotated Sorted Array](0153_find_minimum_in_rotated_sorted_array/fmirsa.go)|Medium|*`binary search`*|
+|0155|[155. Min Stack](0155_min_stack/min_stack.go)|Easy|*`stack`*|
 |0165|[165. Compare Version Numbers](0165_compare_version_numbers/compare_version_numbers.go)|Medium|*`string`*|
 |0167|[Two Sum II - Input array is sorted](./0167_two_sum2/two_sum2.go)|Easy|*`对撞指针(双索引)`*|
 |0198|[House Robber](./0198_house_robber/house_robber.go)|Easy|*`memory search;`* *`dynamic programming`*|
