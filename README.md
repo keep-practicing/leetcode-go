@@ -41,6 +41,9 @@ continually updating 😃.
 * [717. 1-bit and 2-bit Characters](src/0717_1_bit_and_2_bit_characters/1bitand2bitc.go)
 * [747. Largest Number At Least Twice of Others](./src/0747_largest_number_at_least_twice_of_others/largest_number_at_least_twice_of_others.go)
 
+### Stack
+* [155. Min Stack](src/0155_min_stack/min_stack.go)
+
 ### String
 * [3. Longest Substring Without Repeating Characters](./src/0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)&nbsp;&nbsp;&nbsp;*`sliding window;`*&nbsp;&nbsp;*`hash table`*
 * [14. Longest Common Prefix](src/0014_longest_common_prefix/lcp.go)
