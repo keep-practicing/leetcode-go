@@ -4,7 +4,7 @@ function cleanTestCache() {
     go clean -testcache;
 }
 
-function test() {
+function test_() {
     go test ./...;
 }
 
@@ -13,4 +13,4 @@ case $1 in
     ;;
 esac
 
-test;
+test_;
