@@ -31,3 +31,17 @@ func removeElements(head *ListNode, val int) *ListNode {
 	}
 	return dummyHead.Next
 }
+
+// recursive
+// time complexity: O(n)
+// space complexity: O(n)
+func removeElements1(head *ListNode, val int) *ListNode {
+	if head == nil {
+		return head
+	}
+	head.Next = removeElements1(head.Next, val)
+	if head.Val == val {
+		return head.Next
+	}
+	return head
+}
