@@ -43,6 +43,7 @@ continually updating 😃.
 
 ### Stack
 * [155. Min Stack](src/0155_min_stack/min_stack.go)
+* [735. Asteroid Collision](src/0735_asteroid_collision/ac.go)
 
 ### String
 * [3. Longest Substring Without Repeating Characters](./src/0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)&nbsp;&nbsp;&nbsp;*`sliding window;`*&nbsp;&nbsp;*`hash table`*
