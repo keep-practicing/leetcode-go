@@ -15,6 +15,16 @@ func TestRemoveElements(t *testing.T) {
 	}
 }
 
+func TestRemoveElements1(t *testing.T) {
+	head := createSinglyLinkedList([]int{1, 2, 6, 3, 4, 5, 6})
+	val := 6
+	expected := createSinglyLinkedList([]int{1, 2, 3, 4, 5})
+
+	if res := removeElements1(head, val); !reflect.DeepEqual(res, expected) {
+		t.Errorf("expected %v, got %v", expected, res)
+	}
+}
+
 func createSinglyLinkedList(nums []int) *ListNode {
 	head := &ListNode{}
 	cur := head
