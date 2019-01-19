@@ -19,17 +19,17 @@ package kthleiaa
 func findKthLargest(nums []int, k int) int {
 	// heapify
 	for i := (len(nums) - 1) / 2; i >= 0; i-- {
-		shiftDown(nums, len(nums), i)
+		siftDown(nums, len(nums), i)
 	}
 
 	for i := len(nums) - 1; i >= len(nums)-k; i-- {
 		nums[i], nums[0] = nums[0], nums[i]
-		shiftDown(nums, i, 0)
+		siftDown(nums, i, 0)
 	}
 	return nums[len(nums)-k]
 }
 
-func shiftDown(nums []int, n int, i int) {
+func siftDown(nums []int, n int, i int) {
 	for 2*i+1 < n {
 		j := 2*i + 1
 		if j+1 < n && nums[j+1] > nums[j] {

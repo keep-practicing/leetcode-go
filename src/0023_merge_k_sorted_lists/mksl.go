@@ -37,7 +37,7 @@ func mergeKLists(lists []*ListNode) *ListNode {
 	cur := head
 	for len(lists) > 0 {
 		for i := (len(lists) - 1) / 2; i >= 0; i-- {
-			shiftUp(lists, len(lists), i)
+			siftUp(lists, len(lists), i)
 		}
 		cur.Next = &ListNode{Val: lists[0].Val}
 		cur = cur.Next
@@ -50,7 +50,7 @@ func mergeKLists(lists []*ListNode) *ListNode {
 }
 
 // build heap
-func shiftUp(lists []*ListNode, n int, k int) {
+func siftUp(lists []*ListNode, n int, k int) {
 	for 2*k+1 < n {
 		j := 2*k + 1
 		if j+1 < n && lists[j+1].Val < lists[j].Val {
