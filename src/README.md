@@ -80,6 +80,7 @@
 |0283|[Move Zeroes(solution1)](./0283_move_zeroes/move_zeroes.go) <br/>  [Move Zeroes(solution2)](./0283_move_zeroes/move_zeroes2.go)|Easy|*`array`*|
 |0300|[Longest Increasing Subsequence](./0300_longest_increasing_subsequence/lis.go)|Medium|*`dp`*|
 |0303|[303. Range Sum Query - Immutable](0303_range_sum_query/rsqim.go)|Easy||
+|0307|[307. Range Sum Query - Mutable](0307_Range_Sum_Query_Mutable/range_sum_query_mut.go)|Medium|*`segment tree`*|
 |0328|[328. Odd Even Linked List](0328_odd_even_linked_list/odd_even_linked_list.go)|Medium|*`singly linked list`*|
 |0343|[Integer Break](./0343_integer_break/integer_break.go)|Medium|*`recursion;`* *`memory search;`* *`dynamic programming`*|
 |0344|[344. Reverse String](0344_reverse_string/reverse_string.go)|Easy|*`double index`*|
