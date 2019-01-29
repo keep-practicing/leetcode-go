@@ -114,6 +114,7 @@ continually updating 😃.
 * [226. Invert Binary Tree](src/0226_invert_binary_tree/invert_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
 * [235. Lowest Common Ancestor of a Binary Search Tree](src/0235_lowest_common_ancestor_of_a_binary_search_tree/lcaoabst.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*
 * [257. Binary Tree Paths](src/0257_binary_tree_paths/binary_tree_paths.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
+* [307. Range Sum Query - Mutable](src/0307_Range_Sum_Query_Mutable/range_sum_query_mut.go)&nbsp;&nbsp;&nbsp;*`segment tree`*
 * [404. Sum of Left Leaves](src/0404_sum_of_left_leaves/sum_of_left_leaves.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 * [437. Path Sum III](src/0437_path_sum_3/path_sum_3.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 * [872. Leaf-Similar Trees](src/0872_leaf_similar_trees/leaf_similar_trees.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
