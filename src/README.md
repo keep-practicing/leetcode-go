@@ -68,6 +68,7 @@
 |0200|[200. Number of Islands](0200_number_of_island/number_of_island.go)|Medium|*`dfs;`* *`bfs`*|
 |0203|[203. Remove Linked List Elements](0203_remove_linked_list_elements/remove_linked_list_elements.go)|Easy|*`linked list`*|
 |0206|[206. Reverse Linked List](0206_reverse_linked_list/reverse_linked_list.go)|Easy|*`linked list`*|
+|0208|[208. Implement Trie (Prefix Tree)](0208_implement_trie_prefix_tree/impltrie.go)|Medium|*`trie`*|
 |0209|[Minimum Size Subarray Sum](./0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)|Medium|*`sliding window`*|
 |0215|[215. Kth Largest Element in an Array](0215_kth_largest_element_in_an_array/kthleiaa.go)|Medium|*`sort`*|
 |0217|[217. Contains Duplicate](0217_contains_duplicate/contains_duplicate.go)|Easy|*`map`*|
