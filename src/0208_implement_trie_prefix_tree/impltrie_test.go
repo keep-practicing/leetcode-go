@@ -6,7 +6,7 @@ func TestImplTrie(t *testing.T) {
 	trie := Constructor()
 	trie.Insert("apple")
 
-	for i, j := range map[string]bool{"apple": true, "app": false} {
+	for i, j := range map[string]bool{"apple": true, "app": false, "hello": false} {
 		if res := trie.Search(i); res != j {
 			t.Errorf("expected %t, got %t", j, res)
 		}
