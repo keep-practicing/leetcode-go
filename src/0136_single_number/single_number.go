@@ -20,7 +20,7 @@ func singleNumber(nums []int) int {
 		}
 	}
 	var res int
-	for key, _ := range record {
+	for key := range record {
 		res = key
 	}
 	return res
