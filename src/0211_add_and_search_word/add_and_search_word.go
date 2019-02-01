@@ -28,7 +28,7 @@ func (trie *WordDictionary) AddWord(word string) {
 		if _, ok := cur.next[word[i]]; !ok {
 			cur.next[word[i]] = &node{next: make(map[byte]*node)}
 		}
-		cur, _ = cur.next[word[i]]
+		cur = cur.next[word[i]]
 	}
 	if !cur.isWord {
 		cur.isWord = true
@@ -49,8 +49,7 @@ func match(n *node, word string, index int) bool {
 		if _, ok := n.next[word[index]]; !ok {
 			return false
 		}
-		nextNode, _ := n.next[word[index]]
-		return match(nextNode, word, index+1)
+		return match(n.next[word[index]], word, index+1)
 	} else {
 		for _, nextNode := range n.next {
 			if match(nextNode, word, index+1) {
