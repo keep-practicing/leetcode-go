@@ -101,6 +101,7 @@
 |0455|[Assign Cookies](./0455_assign_cookies/assign_cookies.go)|Easy|*`greedy algorithm`*|
 |0557|[557. Reverse Words in a String III](0557_reverse_words_in_a_string_3/reverse_words_in_a_string_3.go)|Easy|*`string`*|
 |0674|[674. Longest Continuous Increasing Subsequence](0674_longest_continuous_increasing_subsequence/lcis.go)|Easy||
+|0677|[677. Map Sum Pairs](0677_map_sum_pairs/map_sum_pairs.go)|Medium|*`trie`*|
 |0704|[Binary Search](0704_binary_search/binary_search.go)|Easy|*`binary search`*|
 |0713|[713. Subarray Product Less Than K](0713_subarray_product_less_than_k/spltk.go)|Medium|*`sliding window`*|
 |0717|[717. 1-bit and 2-bit Characters](0717_1_bit_and_2_bit_characters/1bitand2bitc.go)|Easy||

@@ -118,6 +118,7 @@ continually updating 😃.
 * [307. Range Sum Query - Mutable](src/0307_Range_Sum_Query_Mutable/range_sum_query_mut.go)&nbsp;&nbsp;&nbsp;*`segment tree`*
 * [404. Sum of Left Leaves](src/0404_sum_of_left_leaves/sum_of_left_leaves.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 * [437. Path Sum III](src/0437_path_sum_3/path_sum_3.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
+* [677. Map Sum Pairs](src/0677_map_sum_pairs/map_sum_pairs.go)&nbsp;&nbsp;&nbsp;*`trie`*
 * [872. Leaf-Similar Trees](src/0872_leaf_similar_trees/leaf_similar_trees.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 
 ### Binary Search

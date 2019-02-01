@@ -36,7 +36,7 @@ func (trie *Trie) Insert(word string) {
 		if _, ok := cur.next[word[i]]; !ok {
 			cur.next[word[i]] = &node{next: make(map[byte]*node)}
 		}
-		cur, _ = cur.next[word[i]]
+		cur = cur.next[word[i]]
 	}
 	if !cur.isWord {
 		cur.isWord = true
@@ -52,9 +52,8 @@ func (trie *Trie) Search(word string) bool {
 		if _, ok := cur.next[word[i]]; !ok {
 			return false
 		}
-		cur, _ = cur.next[word[i]]
+		cur = cur.next[word[i]]
 	}
-
 	return cur.isWord
 }
 
@@ -66,7 +65,7 @@ func (trie *Trie) StartsWith(prefix string) bool {
 		if _, ok := cur.next[prefix[i]]; !ok {
 			return false
 		}
-		cur, _ = cur.next[prefix[i]]
+		cur = cur.next[prefix[i]]
 	}
 	return true
 }
