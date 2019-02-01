@@ -57,6 +57,7 @@
 |0121|[121. Best Time to Buy and Sell Stock](0121_best_time_to_buy_and_sell_stock/maxprofit.go)|Easy||
 |0122|[122. Best Time to Buy and Sell Stock II](0122_best_time_to_buy_and_sell_stock_2/maxprofit.go)|Easy|*`greedy`*|
 |0125|[Valid Palindrome](0125_valid_palindrome/valid_palindrome.go)|Easy||
+|0136|[136. Single Number](0136_single_number/single_number.go)|Easy|*`hash table;`* *`bit manipulation`*|
 |0144|[144. Binary Tree Preorder Traversal](0144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.go)|Medium|*`binary tree`*|
 |0150|[150. Evaluate Reverse Polish Notation](0150_evaluate_reverse_polish_notation/evaluate_reverse_polish_notation.go)|Medium|*`stack`*|
 |0153|[153. Find Minimum in Rotated Sorted Array](0153_find_minimum_in_rotated_sorted_array/fmirsa.go)|Medium|*`binary search`*|
