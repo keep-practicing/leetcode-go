@@ -114,6 +114,7 @@ continually updating 😃.
 * [144. Binary Tree Preorder Traversal](src/0144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.go)&nbsp;&nbsp;&nbsp;*`binary tree;`*&nbsp;&nbsp;&nbsp;*`pre-order traversal`*
 * [208. Implement Trie (Prefix Tree)](src/0208_implement_trie_prefix_tree/impltrie.go)&nbsp;&nbsp;&nbsp;*`trie`*
 * [226. Invert Binary Tree](src/0226_invert_binary_tree/invert_binary_tree.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
+* [211. Add and Search Word - Data structure design](src/0211_add_and_search_word/add_and_search_word.go)&nbsp;&nbsp;&nbsp;*`trie`*
 * [235. Lowest Common Ancestor of a Binary Search Tree](src/0235_lowest_common_ancestor_of_a_binary_search_tree/lcaoabst.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 * [257. Binary Tree Paths](src/0257_binary_tree_paths/binary_tree_paths.go)&nbsp;&nbsp;&nbsp;*`binary tree`*
 * [307. Range Sum Query - Mutable](src/0307_Range_Sum_Query_Mutable/range_sum_query_mut.go)&nbsp;&nbsp;&nbsp;*`segment tree`*

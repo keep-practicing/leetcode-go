@@ -71,6 +71,7 @@
 |0206|[206. Reverse Linked List](0206_reverse_linked_list/reverse_linked_list.go)|Easy|*`linked list`*|
 |0208|[208. Implement Trie (Prefix Tree)](0208_implement_trie_prefix_tree/impltrie.go)|Medium|*`trie`*|
 |0209|[Minimum Size Subarray Sum](./0209_minimum_size_subarray_sum/minimum_size_subarray_sum.go)|Medium|*`sliding window`*|
+|0211|[211. Add and Search Word - Data structure design](0211_add_and_search_word/add_and_search_word.go)|Medium|*`trie`*|
 |0215|[215. Kth Largest Element in an Array](0215_kth_largest_element_in_an_array/kthleiaa.go)|Medium|*`sort`*|
 |0217|[217. Contains Duplicate](0217_contains_duplicate/contains_duplicate.go)|Easy|*`map`*|
 |0219|[219. Contains Duplicate II](0219_contains_duplicate_2/contains_duplicate_2.go)|Easy|*`map`*|
