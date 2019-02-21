@@ -77,6 +77,7 @@
 |0219|[219. Contains Duplicate II](0219_contains_duplicate_2/contains_duplicate_2.go)|Easy|*`map`*|
 |0226|[Invert Binary Tree](./0226_invert_binary_tree/invert_binary_tree.go)|Easy|*`recursion; `* *`binary tree`*|
 |0235|[235. Lowest Common Ancestor of a Binary Search Tree](0235_lowest_common_ancestor_of_a_binary_search_tree/lcaoabst.go)|Easy|*`recursion; `* *`binary tree`*|
+|0236|[236. Lowest Common Ancestor of a Binary Tree](0236_Lowest_Common_Ancestor_of_a_Binary_Tree/lca.go)|Medium|*`recursion; `* *`binary tree`*|
 |0237|[237. Delete Node in a Linked List](0237_delete_node_in_a_linked_list/dniall.go)|Easy|*`linked list`*|
 |0257|[257. Binary Tree Paths](0257_binary_tree_paths/binary_tree_paths.go)|Easy|*`binary tree`*|
 |0258|[258. Add Digits](0258_add_digits/add_digits.go)|Easy|*`math`*|
