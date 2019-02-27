@@ -88,6 +88,7 @@ continually updating 😃.
 * [120. Triangle](src/0120_triangle/triangle.go)&nbsp;&nbsp;&nbsp;*`array`*
 * [198. House Robber](src/0198_house_robber/house_robber.go)
 * [300. Longest Increasing Subsequence](src/0300_longest_increasing_subsequence/lis.go)
+* [304. Range Sum Query 2D - Immutable](src/304_Range_Sum_Query_2D/rsq.go)
 * [343. Integer Break](src/0343_integer_break/integer_break.go)&nbsp;&nbsp;&nbsp;*`math`*
 * [376. Wiggle Subsequence](src/0376_wiggle_subsequence/wiggle_subsequence.go)&nbsp;&nbsp;&nbsp;*`greedy;`*&nbsp;&nbsp;*`dynamic programming`*
 * [416. Partition Equal Subset Sum](src/0416_partition_equal_subset_sum/partition_equal_subset_sum.go)&nbsp;&nbsp;*`0-1 knapsack problem`*
