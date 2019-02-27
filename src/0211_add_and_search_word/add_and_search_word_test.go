@@ -5,7 +5,7 @@ import "testing"
 func TestAddAndSearchWord(t *testing.T) {
 	obj := Constructor()
 
-	for _, word := range []string{"bad", "dad", "mad"}{
+	for _, word := range []string{"bad", "dad", "mad"} {
 		obj.AddWord(word)
 	}
 
