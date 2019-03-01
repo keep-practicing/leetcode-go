@@ -13,6 +13,7 @@ continually updating 😃.
 * [1. Two Sum](src/0001_two_sum/twosum.go)&nbsp;&nbsp;&nbsp;*`lookup table;`*&nbsp;&nbsp;*`hash table`*
 * [4. Median of Two Sorted Arrays](src/0004_median_of_two_sorted_arrays/motsa.go)&nbsp;&nbsp;&nbsp;*`binary search;`*&nbsp;&nbsp;*`divide and conquer`*
 * [11. Container With Most Water](src/0011_container_with_most_water/container_with_most_water.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
+* [15. 3Sum](src/0015_3Sum/3sum.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [26. Remove Duplicates from Sorted Array](src/0026_remove_duplicates_from_sorted_array/rdfsa.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [27. Remove Element](src/0027_remove_element/remove_element.go)&nbsp;&nbsp;&nbsp;*`double index;`*&nbsp;&nbsp;*`array`*
 * [48. Rotate Image](src/0048_rotate_image/rotate_image.go)
