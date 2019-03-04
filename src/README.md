@@ -60,6 +60,7 @@
 |0125|[Valid Palindrome](0125_valid_palindrome/valid_palindrome.go)|Easy||
 |0136|[136. Single Number](0136_single_number/single_number.go)|Easy|*`hash table;`* *`bit manipulation`*|
 |0144|[144. Binary Tree Preorder Traversal](0144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.go)|Medium|*`binary tree`*|
+|0148|[148. Sort List](148_Sort_List/sortlist.go)|Medium|*`sort;`* *`linked list`*|
 |0150|[150. Evaluate Reverse Polish Notation](0150_evaluate_reverse_polish_notation/evaluate_reverse_polish_notation.go)|Medium|*`stack`*|
 |0153|[153. Find Minimum in Rotated Sorted Array](0153_find_minimum_in_rotated_sorted_array/fmirsa.go)|Medium|*`binary search`*|
 |0155|[155. Min Stack](0155_min_stack/min_stack.go)|Easy|*`stack`*|
