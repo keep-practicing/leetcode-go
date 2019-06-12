@@ -8,7 +8,7 @@ Given a triangle, find the minimum path sum from top to bottom. Each step you ma
 
 package triangle
 
-import "github.com/zwfang/leetcode/utils"
+import "leetcode/utils"
 
 // dfs
 /*

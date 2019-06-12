@@ -34,7 +34,7 @@ Note:
 
 package largestnumberatleasttwiceofothers
 
-import "github.com/zwfang/leetcode/utils"
+import "leetcode/utils"
 
 // Time complexity: O(n)
 // Space complexity: O(1)
