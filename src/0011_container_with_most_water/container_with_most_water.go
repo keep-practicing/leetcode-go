@@ -14,7 +14,7 @@ Note: You may not slant the container and n is at least 2.
 
 package containerwithmostwater
 
-import "leetcode/utils"
+import "github.com/zwfang/leetcode/utils"
 
 // time complexity: O(n)
 // space complexity: O(1)

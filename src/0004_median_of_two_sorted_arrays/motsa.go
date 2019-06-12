@@ -12,7 +12,7 @@ You may assume nums1 and nums2 cannot be both empty.
 
 package motsa
 
-import "leetcode/utils"
+import "github.com/zwfang/leetcode/utils"
 
 // binary search
 // time complexity: O(log(m+n)), where m is nums1's length, n is nums2's length.
