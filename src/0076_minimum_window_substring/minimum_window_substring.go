@@ -15,7 +15,7 @@ Note:
 
 package minimumwindowsubstring
 
-import "github.com/zwfang/leetcode/utils"
+import "leetcode/utils"
 
 /*
 使用滑动窗口解决这一问题，使用map或者slice统计T字符串中的字母的个数，之后，开始遍历S字符串，对于S中遍历到
