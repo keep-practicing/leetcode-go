@@ -29,7 +29,7 @@ Can you do it in O(n) time?
 
 package wigglesubsequence
 
-import "leetcode/utils"
+import "github.com/zwfang/leetcode/utils"
 
 /*
  * 用up[i]和down[i]分别记录到第i个元素为止以上升沿和下降沿结束的最长“摆动”

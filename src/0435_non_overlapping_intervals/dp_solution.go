@@ -12,7 +12,7 @@ Note:
 package nonoverlappingintervals
 
 import (
-	"leetcode/utils"
+	"github.com/zwfang/leetcode/utils"
 	"sort"
 )
 
