@@ -16,7 +16,7 @@ package spltk
 // time complexity: O(n), where n = len(nums)
 // space complexity: O(1)
 func numSubArrayProductLessThanK(nums []int, k int) int {
-	if k <= 0 {
+	if k <= 1 {
 		return 0
 	}
 
@@ -39,6 +39,28 @@ func numSubArrayProductLessThanK(nums []int, k int) int {
 			prod /= nums[l]
 			l++
 		}
+	}
+	return res
+}
+
+// 2019-06-16
+func numSubArrayProductLessThanK2(nums []int, k int) int {
+	if k <= 1 {
+		return 0
+	}
+	var (
+		prod = 1
+		res  = 0
+		left = 0
+	)
+
+	for right, val := range nums {
+		prod *= val
+		for prod >= k {
+			prod /= nums[left]
+			left++
+		}
+		res += right - left + 1
 	}
 	return res
 }

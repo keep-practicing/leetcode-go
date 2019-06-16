@@ -11,9 +11,16 @@ func TestNumSubArrayProductLessThanK(t *testing.T) {
 
 	ks := []int{100, 0, 100}
 	expected := []int{8, 0, 4}
-	for index, data := range testCases {
-		if res := numSubArrayProductLessThanK(data, ks[index]); res != expected[index] {
-			t.Errorf("expected %d, got %d", expected[index], res)
+
+	functions := []func([]int, int)int{
+		numSubArrayProductLessThanK,
+		numSubArrayProductLessThanK2,
+	}
+	for _, func_ := range functions {
+		for index, data := range testCases {
+			if res := func_(data, ks[index]); res != expected[index] {
+				t.Errorf("expected %d, got %d", expected[index], res)
+			}
 		}
 	}
 }
