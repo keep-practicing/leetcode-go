@@ -12,7 +12,7 @@ func TestNumSubArrayProductLessThanK(t *testing.T) {
 	ks := []int{100, 0, 100}
 	expected := []int{8, 0, 4}
 
-	functions := []func([]int, int)int{
+	functions := []func([]int, int) int{
 		numSubArrayProductLessThanK,
 		numSubArrayProductLessThanK2,
 	}
