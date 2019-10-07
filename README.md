@@ -142,6 +142,3 @@ continually updating 😃.
 * [66. Plus One](src/0066_plus_one/plus_one.go)&nbsp;&nbsp;&nbsp;*`array`*
 * [150. Evaluate Reverse Polish Notation](src/0150_evaluate_reverse_polish_notation/evaluate_reverse_polish_notation.go)&nbsp;&nbsp;&nbsp;*`stack`*
 * [258. Add Digits](src/0258_add_digits/add_digits.go)
-
-<details>
-</details>
