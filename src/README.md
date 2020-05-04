@@ -115,3 +115,4 @@
 |0735|[735. Asteroid Collision](0735_asteroid_collision/ac.go)|Medium|*`stack`*|
 |0747|[Largest Number At Least Twice of Others](./0747_largest_number_at_least_twice_of_others/largest_number_at_least_twice_of_others.go)|Easy||
 |0872|[872. Leaf-Similar Trees](0872_leaf_similar_trees/leaf_similar_trees.go)|Easy|*`binary tree`*|
+|1021|[1021. Remove Outermost Parentheses](1021_Remove_Outermost_Parentheses/remove_outmost_parentheses.go)|Easy|*`stack`*|
