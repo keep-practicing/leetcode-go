@@ -63,6 +63,7 @@ continually updating 😃.
 * [345. Reverse Vowels of a String](src/0345_reverse_vowels_of_a_string/reverse_vowels.go)&nbsp;&nbsp;&nbsp;*`string;`*&nbsp;&nbsp;*`double index`*
 * [438. Find All Anagrams in a String](src/0438_all_anagrams_in_a_string/all_anagrams_in_a_string.go)&nbsp;&nbsp;&nbsp;*`sliding window`*
 * [557. Reverse Words in a String III](src/0557_reverse_words_in_a_string_3/reverse_words_in_a_string_3.go)
+* [1021. Remove Outermost Parentheses](src/1021_Remove_Outermost_Parentheses/remove_outmost_parentheses.go)&nbsp;&nbsp;&nbsp;*`stack`*
 
 ### Linked List
 * [2. Add Two Numbers](src/0002_add_two_numbers/add_two_numbers.go)&nbsp;&nbsp;&nbsp;*`recursion;`*&nbsp;&nbsp;*`math`*
