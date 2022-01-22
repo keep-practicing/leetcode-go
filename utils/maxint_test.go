@@ -15,10 +15,3 @@ func TestCalcMaxInt(t *testing.T) {
 		}
 	}
 }
-
-func BenchmarkCalcMaxInt(b *testing.B) {
-	data := []int{3, 4, 67, 8}
-	for i := 0; i < b.N; i++ {
-		CalcMaxInt(data...)
-	}
-}
