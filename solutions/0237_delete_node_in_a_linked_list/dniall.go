@@ -24,7 +24,7 @@ type ListNode struct {
 // space complexity: O(1)
 func deleteNode(node *ListNode) {
 	// The linked list will have at least two elements.
-	// All of the nodes' values will be unique.
+	// All the nodes' values will be unique.
 	// The given node will not be the tail and it will always be a valid node of the linked list.
 	node.Val = node.Next.Val
 	node.Next = node.Next.Next
