@@ -1,8 +1,8 @@
-### Solution for LeetCode algorithm problems, continually updating.
+### Solutions for LeetCode algorithm problems, continually updating.
 
 |ID|Title && solution|Coefficient of difficulty|remarks|
 |:---:|:---:|:---:|:---:|
-|0001|[Two Sum](./0001_two_sum/twosum.go)|Easy|*`array;`*  *`lookup table`*|
+|0001|[Two Sum](0001_two_sum/twosum.go)|Easy|*`array;`*  *`lookup table`*|
 |0002|[Add Two Numbers](0002_add_two_numbers/add_two_numbers.go)|Medium|*`linked list`*|
 |0003|[Longest Substring Without Repeating Characters](0003_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)|Medium|*`sliding window`*|
 |0004|[4. Median of Two Sorted Arrays](0004_median_of_two_sorted_arrays/motsa.go)|Hard|*`binary search`*|
